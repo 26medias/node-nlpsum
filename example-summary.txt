@@ -1,5 +1,4 @@
-Using advanced electron diffraction techniques, the scientists discovered that orbital fluctuations in iron-based compounds induce strongly coupled polarizations that can enhance electron pairing -- the essential mechanism behind superconductivity.
-While the effect of doping the multi-orbital barium iron arsenic -- customizing its crucial outer electron count by adding cobalt -- mirrors the emergence of high-temperature superconductivity in simpler systems, the mechanism itself may be entirely different.
-"Now superconductor theory can incorporate proof of strong coupling between iron and arsenic in these dense electron cloud interactions," said Brookhaven Lab physicist and study coauthor Weiguo Yin.
-"But the barium iron arsenic we tested has multi-orbital electrons that push and pull the lattice in much more flexible and complex ways, for example by inter-orbital electron redistribution.
-"Cobalt doping pushed the orbital electrons in the arsenic outward, concentrating the negative charge on the outside of the 'sandwich' and creating a positively charged pocket closer to the central layer of iron," Zhu said
+14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure.
+"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin," said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.
+Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun.
+"We are now past the minimum solar-energy point of this Martian winter," said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif
