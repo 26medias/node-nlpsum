@@ -1,0 +1,5 @@
+Using advanced electron diffraction techniques, the scientists discovered that orbital fluctuations in iron-based compounds induce strongly coupled polarizations that can enhance electron pairing -- the essential mechanism behind superconductivity.
+While the effect of doping the multi-orbital barium iron arsenic -- customizing its crucial outer electron count by adding cobalt -- mirrors the emergence of high-temperature superconductivity in simpler systems, the mechanism itself may be entirely different.
+"Now superconductor theory can incorporate proof of strong coupling between iron and arsenic in these dense electron cloud interactions," said Brookhaven Lab physicist and study coauthor Weiguo Yin.
+"But the barium iron arsenic we tested has multi-orbital electrons that push and pull the lattice in much more flexible and complex ways, for example by inter-orbital electron redistribution.
+"Cobalt doping pushed the orbital electrons in the arsenic outward, concentrating the negative charge on the outside of the 'sandwich' and creating a positively charged pocket closer to the central layer of iron," Zhu said

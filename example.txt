@@ -1,0 +1,35 @@
+Brookhaven Lab researchers captured the distribution of multiple orbital electrons to help explain the emergence of superconductivity in iron-based materials. Armed with just the right atomic arrangements, superconductors allow electricity to flow without loss and radically enhance energy generation, delivery, and storage. Scientists tweak these superconductor recipes by swapping out elements or manipulating the valence electrons in an atom's outermost orbital shell to strike the perfect conductive balance. Most high-temperature superconductors contain atoms with only one orbital impacting performance -- but what about mixing those elements with more complex configurations?
+
+Now, researchers at the U.S. Department of Energy's Brookhaven National Laboratory have combined atoms with multiple orbitals and precisely pinned down their electron distributions. Using advanced electron diffraction techniques, the scientists discovered that orbital fluctuations in iron-based compounds induce strongly coupled polarizations that can enhance electron pairing -- the essential mechanism behind superconductivity. The study, set to publish soon in the journal Physical Review Letters, provides a breakthrough method for exploring and improving superconductivity in a wide range of new materials.
+
+While the effect of doping the multi-orbital barium iron arsenic -- customizing its crucial outer electron count by adding cobalt -- mirrors the emergence of high-temperature superconductivity in simpler systems, the mechanism itself may be entirely different.
+
+"Now superconductor theory can incorporate proof of strong coupling between iron and arsenic in these dense electron cloud interactions," said Brookhaven Lab physicist and study coauthor Weiguo Yin. "This unexpected discovery brings together both orbital fluctuation theory and the 50-year-old 'excitonic' theory for high-temperature superconductivity, opening a new frontier for condensed matter physics."
+
+Atomic Jungle Gym
+
+Imagine a child playing inside a jungle gym, weaving through holes in the multicolored metal matrix in much the same way that electricity flows through materials. This particular kid happens to be wearing a powerful magnetic belt that repels the metal bars as she climbs. This causes the jungle gym's grid-like structure to transform into an open tunnel, allowing the child to slide along effortlessly. The real bonus, however, is that this action attracts any nearby belt-wearing children, who can then blaze through that perfect path.
+
+Flowing electricity can have a similar effect on the atomic lattices of superconductors, repelling the negatively charged valence electrons in the surrounding atoms. In the right material, that repulsion actually creates a positively charged pocket, drawing in other electrons as part of the pairing mechanism that enables the loss-free flow of current -- the so-called excitonic mechanism. To design an atomic jungle gym that warps just enough to form a channel, scientists audition different combinations of elements and tweak their quantum properties.
+
+"High-temperature copper-oxide superconductors, or cuprates, contain in effect a single orbital and lack the degree of freedom to accommodate strong enough interactions between electricity and the lattice," Yin said. "But the barium iron arsenic we tested has multi-orbital electrons that push and pull the lattice in much more flexible and complex ways, for example by inter-orbital electron redistribution. This feature is especially promising because electricity can shift arsenic's electron cloud much more easily than oxygen's."
+
+In the case of the atomic jungle gym, this complexity demands new theoretical models and experimental data, considering that even a simple lattice made of north-south bar magnets can become a multidimensional dance of attraction and repulsion. To control the doping effects and flow of electricity, scientists needed a window into the orbital interactions.
+
+Tracking Orbits
+
+"Consider measuring waves crashing across the ocean's surface," Zhu said. "We needed to pinpoint those complex fluctuations without having the data obscured by the deep water underneath. The waves represent the all-important electrons in the outer orbital shells, which are barely distinguishable from the layers of inner electrons. For example, each barium atom alone has 56 electrons, but we're only concerned with the two in the outermost layer."
+
+The Brookhaven researchers used a technique called quantitative convergent beam electron diffraction (CBED) to reveal the orbital clouds with subatomic precision. After an electron beam strikes the sample, it bounces off the charged particles to reveal the configuration of the atomic lattice, or the exact arrays of nuclei orbited by electrons. The scientists took thousands of these measurements, subtracted the inner electrons, and converted the data into probabilities -- balloon-shaped areas where the valence electrons were most likely to be found.
+
+Shape-Shifting Atoms
+
+The researchers first examined the electron clouds of non-superconducting samples of barium iron arsenic. The CBED data revealed that the arsenic atoms -- placed above and below the iron in a sandwich-like shape (see image) -- exhibited little shift or polarization of valence electrons. However, when the scientists transformed the compound into a superconductor by doping it with cobalt, the electron distribution radically changed.
+
+"Cobalt doping pushed the orbital electrons in the arsenic outward, concentrating the negative charge on the outside of the 'sandwich' and creating a positively charged pocket closer to the central layer of iron," Zhu said. "We created very precise electronic and atomic displacement that might actually drive the critical temperature of these superconductors higher."
+
+Added Yin, "What's really exciting is that this electron polarization exhibits strong coupling. The quadrupole polarization of the iron, which indicates the orbital fluctuation, couples intimately with the arsenic dipole polarization -- this mechanism may be key to the emergence of high-temperature superconductivity in these iron-based compounds. And our results may guide the design of new materials."
+
+This study explored the orbital fluctuations at room temperature under static conditions, but future experiments will apply dynamic diffraction methods to super-cold samples and explore alternative material compositions.
+
+The experimental work at Brookhaven Lab was supported by DOE's Office of Science. The materials synthesis was carried out at the Chinese Academy of Sciences' Institute of Physics. Brookhaven Lab coauthors of the study also include Chao Ma, Lijun Wu, and Chris Homes.

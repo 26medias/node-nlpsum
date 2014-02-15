@@ -1,0 +1,12 @@
+{
+	"name": 		"node-nlpsum",
+	"description": 	"Text sumarization",
+	"version":		"1.0.0",
+	"dependencies": {
+		"mongodb":		"latest",
+		"underscore":	"latest",
+		"node-summary":	"latest",
+		"nlpsum":		"latest"
+	}
+}
+
