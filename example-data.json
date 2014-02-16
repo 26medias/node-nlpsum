@@ -64,12 +64,12 @@
                     "total": {
                         "words": 1.038461538461538,
                         "sentences": 0.3014184397163121,
-                        "normalized": 0.09392265193370163
+                        "normalized": 0.09593679458239276
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Researchers have determined the now-infamous Martian rock resembling a jelly doughnut, dubbed Pinnacle Island, is a piece of a larger rock broken and moved by the wheel of NASA's Mars Exploration Rover Opportunity in early January",
+                        "sentence": "Researchers have determined the now-infamous Martian rock resembling a jelly doughnut, dubbed Pinnacle Island, is a piece of a larger rock broken and moved by the wheel of NASA's Mars Exploration Rover Opportunity in early January.",
                         "tokens": [
                             "researchers",
                             "have",
@@ -161,7 +161,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.3014184397163121,
-                                "sentence_normalized": 0.09392265193370163
+                                "sentence_normalized": 0.09593679458239276
                             }
                         }
                     }
@@ -169,8 +169,8 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.09392265193370163,
-                        "text": "Researchers have determined the now-infamous Martian rock resembling a jelly doughnut, dubbed Pinnacle Island, is a piece of a larger rock broken and moved by the wheel of NASA's Mars Exploration Rover Opportunity in early January",
+                        "weight": 0.09593679458239276,
+                        "text": "Researchers have determined the now-infamous Martian rock resembling a jelly doughnut, dubbed Pinnacle Island, is a piece of a larger rock broken and moved by the wheel of NASA's Mars Exploration Rover Opportunity in early January.",
                         "index": 0
                     }
                 ],
@@ -249,41 +249,17 @@
                     },
                     "total": {
                         "words": 1,
-                        "sentences": 0.18085106382978727,
-                        "normalized": 0.056353591160220984
+                        "sentences": 0.18085106382978733,
+                        "normalized": 0.05756207674943568
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Only about 1",
+                        "sentence": "Only about 1.5 inches wide (4 centimeters), the white-rimmed, red-centered rock caused a stir last month when it appeared in an image the rover took Jan. 8 at a location where it was not present four days earlier.",
                         "tokens": [
                             "only",
                             "about",
-                            "1"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "1": 0.3333333333333333,
-                                "only": 0.3333333333333333,
-                                "about": 0.3333333333333333
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "1": 0.0035460992907801418,
-                                "only": 0.0035460992907801418,
-                                "about": 0.0035460992907801418
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.010638297872340425,
-                                "sentence_normalized": 0.0033149171270718215
-                            }
-                        }
-                    },
-                    {
-                        "sentence": "5 inches wide (4 centimeters), the white-rimmed, red-centered rock caused a stir last month when it appeared in an image the rover took Jan",
-                        "tokens": [
+                            "1",
                             "5",
                             "inches",
                             "wide",
@@ -304,38 +280,61 @@
                             "image",
                             "rover",
                             "took",
-                            "jan"
+                            "jan",
+                            "8",
+                            "location",
+                            "where",
+                            "not",
+                            "present",
+                            "four",
+                            "days",
+                            "earlier"
                         ],
                         "weights": {
                             "sentence": {
-                                "4": 0.047619047619047616,
-                                "5": 0.047619047619047616,
-                                "inches": 0.047619047619047616,
-                                "wide": 0.047619047619047616,
-                                "centimeters": 0.047619047619047616,
-                                "white": 0.047619047619047616,
-                                "rimmed": 0.047619047619047616,
-                                "red": 0.047619047619047616,
-                                "centered": 0.047619047619047616,
-                                "rock": 0.047619047619047616,
-                                "caused": 0.047619047619047616,
-                                "stir": 0.047619047619047616,
-                                "last": 0.047619047619047616,
-                                "month": 0.047619047619047616,
-                                "when": 0.047619047619047616,
-                                "appeared": 0.047619047619047616,
-                                "an": 0.047619047619047616,
-                                "image": 0.047619047619047616,
-                                "rover": 0.047619047619047616,
-                                "took": 0.047619047619047616,
-                                "jan": 0.047619047619047616
+                                "1": 0.03125,
+                                "4": 0.03125,
+                                "5": 0.03125,
+                                "8": 0.03125,
+                                "only": 0.03125,
+                                "about": 0.03125,
+                                "inches": 0.03125,
+                                "wide": 0.03125,
+                                "centimeters": 0.03125,
+                                "white": 0.03125,
+                                "rimmed": 0.03125,
+                                "red": 0.03125,
+                                "centered": 0.03125,
+                                "rock": 0.03125,
+                                "caused": 0.03125,
+                                "stir": 0.03125,
+                                "last": 0.03125,
+                                "month": 0.03125,
+                                "when": 0.03125,
+                                "appeared": 0.03125,
+                                "an": 0.03125,
+                                "image": 0.03125,
+                                "rover": 0.03125,
+                                "took": 0.03125,
+                                "jan": 0.03125,
+                                "location": 0.03125,
+                                "where": 0.03125,
+                                "not": 0.03125,
+                                "present": 0.03125,
+                                "four": 0.03125,
+                                "days": 0.03125,
+                                "earlier": 0.03125
                             },
                             "paragraph": {},
                             "document": {
+                                "1": 0.0035460992907801418,
                                 "4": 0.0035460992907801418,
                                 "5": 0.0035460992907801418,
+                                "8": 0.0035460992907801418,
                                 "rock": 0.028368794326241134,
                                 "rover": 0.024822695035460994,
+                                "only": 0.0035460992907801418,
+                                "about": 0.0035460992907801418,
                                 "inches": 0.0035460992907801418,
                                 "wide": 0.0035460992907801418,
                                 "centimeters": 0.0035460992907801418,
@@ -352,42 +351,7 @@
                                 "an": 0.010638297872340425,
                                 "image": 0.0035460992907801418,
                                 "took": 0.0035460992907801418,
-                                "jan": 0.0035460992907801418
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.1312056737588653,
-                                "sentence_normalized": 0.04088397790055248
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " 8 at a location where it was not present four days earlier",
-                        "tokens": [
-                            "8",
-                            "location",
-                            "where",
-                            "not",
-                            "present",
-                            "four",
-                            "days",
-                            "earlier"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "8": 0.125,
-                                "location": 0.125,
-                                "where": 0.125,
-                                "not": 0.125,
-                                "present": 0.125,
-                                "four": 0.125,
-                                "days": 0.125,
-                                "earlier": 0.125
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "8": 0.0035460992907801418,
+                                "jan": 0.0035460992907801418,
                                 "location": 0.0035460992907801418,
                                 "where": 0.014184397163120567,
                                 "not": 0.0035460992907801418,
@@ -399,8 +363,8 @@
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.039007092198581554,
-                                "sentence_normalized": 0.012154696132596678
+                                "document": 0.18085106382978733,
+                                "sentence_normalized": 0.05756207674943568
                             }
                         }
                     }
@@ -408,18 +372,8 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.04088397790055248,
-                        "text": "5 inches wide (4 centimeters), the white-rimmed, red-centered rock caused a stir last month when it appeared in an image the rover took Jan",
-                        "index": 1
-                    },
-                    {
-                        "weight": 0.012154696132596678,
-                        "text": " 8 at a location where it was not present four days earlier",
-                        "index": 2
-                    },
-                    {
-                        "weight": 0.0033149171270718215,
-                        "text": "Only about 1",
+                        "weight": 0.05756207674943568,
+                        "text": "Only about 1.5 inches wide (4 centimeters), the white-rimmed, red-centered rock caused a stir last month when it appeared in an image the rover took Jan. 8 at a location where it was not present four days earlier.",
                         "index": 0
                     }
                 ],
@@ -471,12 +425,12 @@
                     "total": {
                         "words": 1.0000000000000002,
                         "sentences": 0.1950354609929078,
-                        "normalized": 0.0607734806629834
+                        "normalized": 0.06207674943566589
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "More recent images show the original piece of rock struck by the rover's wheel, slightly uphill from where Pinnacle Island came to rest",
+                        "sentence": "More recent images show the original piece of rock struck by the rover's wheel, slightly uphill from where Pinnacle Island came to rest.",
                         "tokens": [
                             "more",
                             "recent",
@@ -543,7 +497,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.1950354609929078,
-                                "sentence_normalized": 0.0607734806629834
+                                "sentence_normalized": 0.06207674943566589
                             }
                         }
                     }
@@ -551,8 +505,8 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.0607734806629834,
-                        "text": "More recent images show the original piece of rock struck by the rover's wheel, slightly uphill from where Pinnacle Island came to rest",
+                        "weight": 0.06207674943566589,
+                        "text": "More recent images show the original piece of rock struck by the rover's wheel, slightly uphill from where Pinnacle Island came to rest.",
                         "index": 0
                     }
                 ],
@@ -644,12 +598,12 @@
                     "total": {
                         "words": 1.111111111111111,
                         "sentences": 0.3191489361702129,
-                        "normalized": 0.09944751381215469
+                        "normalized": 0.10158013544018059
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St",
+                        "sentence": "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St. Louis.",
                         "tokens": [
                             "once",
                             "moved",
@@ -680,39 +634,41 @@
                             "arvidson",
                             "washington",
                             "university",
-                            "st"
+                            "st",
+                            "louis"
                         ],
                         "weights": {
                             "sentence": {
-                                "once": 0.034482758620689655,
-                                "moved": 0.034482758620689655,
-                                "opportunity": 0.06896551724137931,
-                                "short": 0.034482758620689655,
-                                "distance": 0.034482758620689655,
-                                "after": 0.034482758620689655,
-                                "inspecting": 0.034482758620689655,
-                                "pinnacle": 0.034482758620689655,
-                                "island": 0.034482758620689655,
-                                "could": 0.034482758620689655,
-                                "see": 0.034482758620689655,
-                                "directly": 0.034482758620689655,
-                                "uphill": 0.034482758620689655,
-                                "an": 0.034482758620689655,
-                                "overturned": 0.034482758620689655,
-                                "rock": 0.034482758620689655,
-                                "has": 0.034482758620689655,
-                                "same": 0.034482758620689655,
-                                "unusual": 0.034482758620689655,
-                                "appearance": 0.034482758620689655,
-                                "said": 0.034482758620689655,
-                                "deputy": 0.034482758620689655,
-                                "principal": 0.034482758620689655,
-                                "investigator": 0.034482758620689655,
-                                "ray": 0.034482758620689655,
-                                "arvidson": 0.034482758620689655,
-                                "washington": 0.034482758620689655,
-                                "university": 0.034482758620689655,
-                                "st": 0.034482758620689655
+                                "once": 0.03333333333333333,
+                                "moved": 0.03333333333333333,
+                                "opportunity": 0.06666666666666667,
+                                "short": 0.03333333333333333,
+                                "distance": 0.03333333333333333,
+                                "after": 0.03333333333333333,
+                                "inspecting": 0.03333333333333333,
+                                "pinnacle": 0.03333333333333333,
+                                "island": 0.03333333333333333,
+                                "could": 0.03333333333333333,
+                                "see": 0.03333333333333333,
+                                "directly": 0.03333333333333333,
+                                "uphill": 0.03333333333333333,
+                                "an": 0.03333333333333333,
+                                "overturned": 0.03333333333333333,
+                                "rock": 0.03333333333333333,
+                                "has": 0.03333333333333333,
+                                "same": 0.03333333333333333,
+                                "unusual": 0.03333333333333333,
+                                "appearance": 0.03333333333333333,
+                                "said": 0.03333333333333333,
+                                "deputy": 0.03333333333333333,
+                                "principal": 0.03333333333333333,
+                                "investigator": 0.03333333333333333,
+                                "ray": 0.03333333333333333,
+                                "arvidson": 0.03333333333333333,
+                                "washington": 0.03333333333333333,
+                                "university": 0.03333333333333333,
+                                "st": 0.03333333333333333,
+                                "louis": 0.03333333333333333
                             },
                             "paragraph": {},
                             "document": {
@@ -744,39 +700,19 @@
                                 "arvidson": 0.0070921985815602835,
                                 "washington": 0.0035460992907801418,
                                 "university": 0.0035460992907801418,
-                                "st": 0.0035460992907801418
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.23404255319148945,
-                                "sentence_normalized": 0.0729281767955801
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " Louis",
-                        "tokens": [
-                            "louis"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "louis": 1
-                            },
-                            "paragraph": {},
-                            "document": {
+                                "st": 0.0035460992907801418,
                                 "louis": 0.0035460992907801418
                             },
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.0035460992907801418,
-                                "sentence_normalized": 0.0011049723756906072
+                                "document": 0.2375886524822696,
+                                "sentence_normalized": 0.07562076749435666
                             }
                         }
                     },
                     {
-                        "sentence": " \"We drove over it",
+                        "sentence": "\"We drove over it.",
                         "tokens": [
                             "drove",
                             "over"
@@ -795,12 +731,12 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.0070921985815602835,
-                                "sentence_normalized": 0.0022099447513812143
+                                "sentence_normalized": 0.002257336343115123
                             }
                         }
                     },
                     {
-                        "sentence": " We can see the track",
+                        "sentence": "We can see the track.",
                         "tokens": [
                             "can",
                             "see",
@@ -822,12 +758,12 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.017730496453900707,
-                                "sentence_normalized": 0.005524861878453036
+                                "sentence_normalized": 0.005643340857787808
                             }
                         }
                     },
                     {
-                        "sentence": " That's where Pinnacle Island came from",
+                        "sentence": "That's where Pinnacle Island came from.\"",
                         "tokens": [
                             "where",
                             "pinnacle",
@@ -852,40 +788,37 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.05673758865248227,
-                                "sentence_normalized": 0.017679558011049715
+                                "sentence_normalized": 0.018058690744920985
                             }
                         }
                     }
                 ],
-                "quota": 0,
+                "quota": 1,
                 "sentences_sorted": [
                     {
-                        "weight": 0.0729281767955801,
-                        "text": "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St",
+                        "weight": 0.07562076749435666,
+                        "text": "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St. Louis.",
                         "index": 0
                     },
                     {
-                        "weight": 0.017679558011049715,
-                        "text": " That's where Pinnacle Island came from",
-                        "index": 4
-                    },
-                    {
-                        "weight": 0.005524861878453036,
-                        "text": " We can see the track",
+                        "weight": 0.018058690744920985,
+                        "text": "That's where Pinnacle Island came from.\"",
                         "index": 3
                     },
                     {
-                        "weight": 0.0022099447513812143,
-                        "text": " \"We drove over it",
+                        "weight": 0.005643340857787808,
+                        "text": "We can see the track.",
                         "index": 2
                     },
                     {
-                        "weight": 0.0011049723756906072,
-                        "text": " Louis",
+                        "weight": 0.002257336343115123,
+                        "text": "\"We drove over it.",
                         "index": 1
                     }
                 ],
-                "sentences_keep": []
+                "sentences_keep": [
+                    "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St. Louis."
+                ]
             },
             {
                 "paragraph": "Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water. \"This may have happened just beneath the surface relatively recently,\" Arvidson said, \"or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels.\"",
@@ -992,12 +925,12 @@
                     "total": {
                         "words": 1.111111111111111,
                         "sentences": 0.2943262411347519,
-                        "normalized": 0.09171270718232044
+                        "normalized": 0.09367945823927766
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water",
+                        "sentence": "Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water.",
                         "tokens": [
                             "examination",
                             "pinnacle",
@@ -1071,12 +1004,12 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.1453900709219859,
-                                "sentence_normalized": 0.04530386740331492
+                                "sentence_normalized": 0.04627539503386005
                             }
                         }
                     },
                     {
-                        "sentence": " \"This may have happened just beneath the surface relatively recently,\" Arvidson said, \"or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels",
+                        "sentence": "\"This may have happened just beneath the surface relatively recently,\" Arvidson said, \"or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels.\"",
                         "tokens": [
                             "may",
                             "have",
@@ -1170,7 +1103,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.14893617021276603,
-                                "sentence_normalized": 0.04640883977900553
+                                "sentence_normalized": 0.04740406320541762
                             }
                         }
                     }
@@ -1178,13 +1111,13 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.04640883977900553,
-                        "text": " \"This may have happened just beneath the surface relatively recently,\" Arvidson said, \"or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels",
+                        "weight": 0.04740406320541762,
+                        "text": "\"This may have happened just beneath the surface relatively recently,\" Arvidson said, \"or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels.\"",
                         "index": 1
                     },
                     {
-                        "weight": 0.04530386740331492,
-                        "text": "Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water",
+                        "weight": 0.04627539503386005,
+                        "text": "Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water.",
                         "index": 0
                     }
                 ],
@@ -1233,12 +1166,12 @@
                     "total": {
                         "words": 1.0625,
                         "sentences": 0.18794326241134757,
-                        "normalized": 0.058563535911602196
+                        "normalized": 0.05981941309255079
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Now that the rover is finished inspecting this rock, the team plans to drive Opportunity south and uphill to investigate exposed rock layers on the slope",
+                        "sentence": "Now that the rover is finished inspecting this rock, the team plans to drive Opportunity south and uphill to investigate exposed rock layers on the slope.",
                         "tokens": [
                             "now",
                             "rover",
@@ -1300,7 +1233,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.18794326241134757,
-                                "sentence_normalized": 0.058563535911602196
+                                "sentence_normalized": 0.05981941309255079
                             }
                         }
                     }
@@ -1308,8 +1241,8 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.058563535911602196,
-                        "text": "Now that the rover is finished inspecting this rock, the team plans to drive Opportunity south and uphill to investigate exposed rock layers on the slope",
+                        "weight": 0.05981941309255079,
+                        "text": "Now that the rover is finished inspecting this rock, the team plans to drive Opportunity south and uphill to investigate exposed rock layers on the slope.",
                         "index": 0
                     }
                 ],
@@ -1417,13 +1350,13 @@
                     },
                     "total": {
                         "words": 1.1627906976744193,
-                        "sentences": 0.3758865248226951,
-                        "normalized": 0.11712707182320438
+                        "sentences": 0.3333333333333334,
+                        "normalized": 0.10609480812641083
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Opportunity is approaching a boulder-studded ridge informally named the McClure-Beverlin Escarpment, in honor of engineers Jack Beverlin and Bill McClure",
+                        "sentence": "Opportunity is approaching a boulder-studded ridge informally named the McClure-Beverlin Escarpment, in honor of engineers Jack Beverlin and Bill McClure.",
                         "tokens": [
                             "opportunity",
                             "approaching",
@@ -1480,12 +1413,12 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.11347517730496452,
-                                "sentence_normalized": 0.03535911602209943
+                                "sentence_normalized": 0.03611738148984197
                             }
                         }
                     },
                     {
-                        "sentence": " Beverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb",
+                        "sentence": "Beverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb. 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure.",
                         "tokens": [
                             "beverlin",
                             "mcclure",
@@ -1500,53 +1433,7 @@
                             "their",
                             "actions",
                             "on",
-                            "feb"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "beverlin": 0.07142857142857142,
-                                "mcclure": 0.07142857142857142,
-                                "were": 0.07142857142857142,
-                                "first": 0.07142857142857142,
-                                "recipients": 0.07142857142857142,
-                                "nasa": 0.07142857142857142,
-                                "medal": 0.07142857142857142,
-                                "exceptional": 0.07142857142857142,
-                                "bravery": 0.07142857142857142,
-                                "for": 0.07142857142857142,
-                                "their": 0.07142857142857142,
-                                "actions": 0.07142857142857142,
-                                "on": 0.07142857142857142,
-                                "feb": 0.07142857142857142
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "nasa": 0.01773049645390071,
-                                "were": 0.0070921985815602835,
-                                "on": 0.024822695035460994,
-                                "mcclure": 0.014184397163120567,
-                                "beverlin": 0.014184397163120567,
-                                "first": 0.0035460992907801418,
-                                "recipients": 0.0035460992907801418,
-                                "medal": 0.0035460992907801418,
-                                "exceptional": 0.0035460992907801418,
-                                "bravery": 0.0035460992907801418,
-                                "for": 0.0035460992907801418,
-                                "their": 0.0070921985815602835,
-                                "actions": 0.0070921985815602835,
-                                "feb": 0.0070921985815602835
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.12056737588652484,
-                                "sentence_normalized": 0.037569060773480656
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure",
-                        "tokens": [
+                            "feb",
                             "14",
                             "1969",
                             "save",
@@ -1570,25 +1457,37 @@
                         ],
                         "weights": {
                             "sentence": {
-                                "6": 0.05263157894736842,
-                                "14": 0.05263157894736842,
-                                "1969": 0.05263157894736842,
-                                "save": 0.05263157894736842,
-                                "nasa": 0.05263157894736842,
-                                "second": 0.05263157894736842,
-                                "successful": 0.05263157894736842,
-                                "mars": 0.05263157894736842,
-                                "mission": 0.05263157894736842,
-                                "mariner": 0.05263157894736842,
-                                "when": 0.05263157894736842,
-                                "launch": 0.10526315789473684,
-                                "vehicle": 0.05263157894736842,
-                                "began": 0.05263157894736842,
-                                "crumple": 0.05263157894736842,
-                                "on": 0.05263157894736842,
-                                "pad": 0.05263157894736842,
-                                "loss": 0.05263157894736842,
-                                "pressure": 0.05263157894736842
+                                "6": 0.03225806451612903,
+                                "14": 0.03225806451612903,
+                                "1969": 0.03225806451612903,
+                                "beverlin": 0.03225806451612903,
+                                "mcclure": 0.03225806451612903,
+                                "were": 0.03225806451612903,
+                                "first": 0.03225806451612903,
+                                "recipients": 0.03225806451612903,
+                                "nasa": 0.06451612903225806,
+                                "medal": 0.03225806451612903,
+                                "exceptional": 0.03225806451612903,
+                                "bravery": 0.03225806451612903,
+                                "for": 0.03225806451612903,
+                                "their": 0.03225806451612903,
+                                "actions": 0.03225806451612903,
+                                "on": 0.06451612903225806,
+                                "feb": 0.03225806451612903,
+                                "save": 0.03225806451612903,
+                                "second": 0.03225806451612903,
+                                "successful": 0.03225806451612903,
+                                "mars": 0.03225806451612903,
+                                "mission": 0.03225806451612903,
+                                "mariner": 0.03225806451612903,
+                                "when": 0.03225806451612903,
+                                "launch": 0.06451612903225806,
+                                "vehicle": 0.03225806451612903,
+                                "began": 0.03225806451612903,
+                                "crumple": 0.03225806451612903,
+                                "pad": 0.03225806451612903,
+                                "loss": 0.03225806451612903,
+                                "pressure": 0.03225806451612903
                             },
                             "paragraph": {},
                             "document": {
@@ -1598,7 +1497,19 @@
                                 "nasa": 0.01773049645390071,
                                 "mars": 0.024822695035460994,
                                 "when": 0.0070921985815602835,
+                                "were": 0.0070921985815602835,
                                 "on": 0.024822695035460994,
+                                "mcclure": 0.014184397163120567,
+                                "beverlin": 0.014184397163120567,
+                                "first": 0.0035460992907801418,
+                                "recipients": 0.0035460992907801418,
+                                "medal": 0.0035460992907801418,
+                                "exceptional": 0.0035460992907801418,
+                                "bravery": 0.0035460992907801418,
+                                "for": 0.0035460992907801418,
+                                "their": 0.0070921985815602835,
+                                "actions": 0.0070921985815602835,
+                                "feb": 0.0070921985815602835,
                                 "save": 0.0035460992907801418,
                                 "second": 0.0035460992907801418,
                                 "successful": 0.0035460992907801418,
@@ -1615,8 +1526,8 @@
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.1418439716312057,
-                                "sentence_normalized": 0.0441988950276243
+                                "document": 0.21985815602836892,
+                                "sentence_normalized": 0.06997742663656886
                             }
                         }
                     }
@@ -1624,23 +1535,18 @@
                 "quota": 1,
                 "sentences_sorted": [
                     {
-                        "weight": 0.0441988950276243,
-                        "text": " 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure",
-                        "index": 2
-                    },
-                    {
-                        "weight": 0.037569060773480656,
-                        "text": " Beverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb",
+                        "weight": 0.06997742663656886,
+                        "text": "Beverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb. 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure.",
                         "index": 1
                     },
                     {
-                        "weight": 0.03535911602209943,
-                        "text": "Opportunity is approaching a boulder-studded ridge informally named the McClure-Beverlin Escarpment, in honor of engineers Jack Beverlin and Bill McClure",
+                        "weight": 0.03611738148984197,
+                        "text": "Opportunity is approaching a boulder-studded ridge informally named the McClure-Beverlin Escarpment, in honor of engineers Jack Beverlin and Bill McClure.",
                         "index": 0
                     }
                 ],
                 "sentences_keep": [
-                    " 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure"
+                    "Beverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb. 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure."
                 ]
             },
             {
@@ -1751,13 +1657,13 @@
                     },
                     "total": {
                         "words": 1.0204081632653068,
-                        "sentences": 0.35106382978723416,
-                        "normalized": 0.10939226519337016
+                        "sentences": 0.35106382978723427,
+                        "normalized": 0.11173814898419868
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz",
+                        "sentence": "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.  \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today.\"",
                         "tokens": [
                             "team",
                             "working",
@@ -1795,46 +1701,72 @@
                             "science",
                             "institute",
                             "tucson",
-                            "ariz"
+                            "ariz",
+                            "felt",
+                            "really",
+                            "fitting",
+                            "tribute",
+                            "brave",
+                            "men",
+                            "especially",
+                            "45th",
+                            "anniversary",
+                            "their",
+                            "actions",
+                            "coming",
+                            "today"
                         ],
                         "weights": {
                             "sentence": {
-                                "team": 0.05555555555555555,
-                                "working": 0.027777777777777776,
-                                "on": 0.027777777777777776,
-                                "opportunity": 0.027777777777777776,
-                                "continuing": 0.027777777777777776,
-                                "mission": 0.027777777777777776,
-                                "exploration": 0.027777777777777776,
-                                "discovery": 0.027777777777777776,
-                                "realizes": 0.027777777777777776,
-                                "how": 0.027777777777777776,
-                                "indebted": 0.027777777777777776,
-                                "are": 0.027777777777777776,
-                                "work": 0.027777777777777776,
-                                "people": 0.027777777777777776,
-                                "who": 0.027777777777777776,
-                                "made": 0.027777777777777776,
-                                "early": 0.027777777777777776,
-                                "missions": 0.027777777777777776,
-                                "mars": 0.027777777777777776,
-                                "possible": 0.027777777777777776,
-                                "particular": 0.027777777777777776,
-                                "heroics": 0.027777777777777776,
-                                "bill": 0.027777777777777776,
-                                "mcclure": 0.027777777777777776,
-                                "jack": 0.027777777777777776,
-                                "beverlin": 0.027777777777777776,
-                                "said": 0.027777777777777776,
-                                "rover": 0.027777777777777776,
-                                "member": 0.027777777777777776,
-                                "james": 0.027777777777777776,
-                                "rice": 0.027777777777777776,
-                                "planetary": 0.027777777777777776,
-                                "science": 0.027777777777777776,
-                                "institute": 0.027777777777777776,
-                                "tucson": 0.027777777777777776,
-                                "ariz": 0.027777777777777776
+                                "team": 0.04081632653061224,
+                                "working": 0.02040816326530612,
+                                "on": 0.02040816326530612,
+                                "opportunity": 0.02040816326530612,
+                                "continuing": 0.02040816326530612,
+                                "mission": 0.02040816326530612,
+                                "exploration": 0.02040816326530612,
+                                "discovery": 0.02040816326530612,
+                                "realizes": 0.02040816326530612,
+                                "how": 0.02040816326530612,
+                                "indebted": 0.02040816326530612,
+                                "are": 0.02040816326530612,
+                                "work": 0.02040816326530612,
+                                "people": 0.02040816326530612,
+                                "who": 0.02040816326530612,
+                                "made": 0.02040816326530612,
+                                "early": 0.02040816326530612,
+                                "missions": 0.02040816326530612,
+                                "mars": 0.02040816326530612,
+                                "possible": 0.02040816326530612,
+                                "particular": 0.02040816326530612,
+                                "heroics": 0.02040816326530612,
+                                "bill": 0.02040816326530612,
+                                "mcclure": 0.02040816326530612,
+                                "jack": 0.02040816326530612,
+                                "beverlin": 0.02040816326530612,
+                                "said": 0.02040816326530612,
+                                "rover": 0.02040816326530612,
+                                "member": 0.02040816326530612,
+                                "james": 0.02040816326530612,
+                                "rice": 0.02040816326530612,
+                                "planetary": 0.02040816326530612,
+                                "science": 0.02040816326530612,
+                                "institute": 0.02040816326530612,
+                                "tucson": 0.02040816326530612,
+                                "ariz": 0.02040816326530612,
+                                "felt": 0.02040816326530612,
+                                "really": 0.02040816326530612,
+                                "fitting": 0.02040816326530612,
+                                "tribute": 0.02040816326530612,
+                                "brave": 0.02040816326530612,
+                                "men": 0.02040816326530612,
+                                "especially": 0.02040816326530612,
+                                "45th": 0.02040816326530612,
+                                "anniversary": 0.02040816326530612,
+                                "their": 0.02040816326530612,
+                                "actions": 0.02040816326530612,
+                                "coming": 0.02040816326530612,
+                                "today": 0.02040816326530612
                             },
                             "paragraph": {},
                             "document": {
@@ -1851,6 +1783,8 @@
                                 "beverlin": 0.014184397163120567,
                                 "jack": 0.0070921985815602835,
                                 "bill": 0.0070921985815602835,
+                                "their": 0.0070921985815602835,
+                                "actions": 0.0070921985815602835,
                                 "mission": 0.0070921985815602835,
                                 "working": 0.0070921985815602835,
                                 "continuing": 0.0035460992907801418,
@@ -1873,53 +1807,7 @@
                                 "science": 0.0035460992907801418,
                                 "institute": 0.0035460992907801418,
                                 "tucson": 0.0035460992907801418,
-                                "ariz": 0.0035460992907801418
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.29787234042553207,
-                                "sentence_normalized": 0.09281767955801105
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today",
-                        "tokens": [
-                            "felt",
-                            "really",
-                            "fitting",
-                            "tribute",
-                            "brave",
-                            "men",
-                            "especially",
-                            "45th",
-                            "anniversary",
-                            "their",
-                            "actions",
-                            "coming",
-                            "today"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "felt": 0.07692307692307693,
-                                "really": 0.07692307692307693,
-                                "fitting": 0.07692307692307693,
-                                "tribute": 0.07692307692307693,
-                                "brave": 0.07692307692307693,
-                                "men": 0.07692307692307693,
-                                "especially": 0.07692307692307693,
-                                "45th": 0.07692307692307693,
-                                "anniversary": 0.07692307692307693,
-                                "their": 0.07692307692307693,
-                                "actions": 0.07692307692307693,
-                                "coming": 0.07692307692307693,
-                                "today": 0.07692307692307693
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "their": 0.0070921985815602835,
-                                "actions": 0.0070921985815602835,
+                                "ariz": 0.0035460992907801418,
                                 "felt": 0.0035460992907801418,
                                 "really": 0.0035460992907801418,
                                 "fitting": 0.0035460992907801418,
@@ -1935,8 +1823,8 @@
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.05319148936170211,
-                                "sentence_normalized": 0.0165745856353591
+                                "document": 0.35106382978723427,
+                                "sentence_normalized": 0.11173814898419868
                             }
                         }
                     }
@@ -1944,18 +1832,13 @@
                 "quota": 1,
                 "sentences_sorted": [
                     {
-                        "weight": 0.09281767955801105,
-                        "text": "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz",
+                        "weight": 0.11173814898419868,
+                        "text": "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.  \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today.\"",
                         "index": 0
-                    },
-                    {
-                        "weight": 0.0165745856353591,
-                        "text": " \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today",
-                        "index": 1
                     }
                 ],
                 "sentences_keep": [
-                    "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz"
+                    "\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.  \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today.\""
                 ]
             },
             {
@@ -2046,12 +1929,12 @@
                     "total": {
                         "words": 1.0526315789473677,
                         "sentences": 0.35460992907801425,
-                        "normalized": 0.11049723756906074
+                        "normalized": 0.1128668171557562
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun",
+                        "sentence": "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun.",
                         "tokens": [
                             "opportunity",
                             "work",
@@ -2130,34 +2013,14 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.1950354609929078,
-                                "sentence_normalized": 0.0607734806629834
+                                "sentence_normalized": 0.06207674943566589
                             }
                         }
                     },
                     {
-                        "sentence": " Feb",
+                        "sentence": "Feb. 14 is the winter solstice in Mars' southern hemisphere, which includes the region where Opportunity has been working since it landed in January 2004.",
                         "tokens": [
-                            "feb"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "feb": 1
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "feb": 0.0070921985815602835
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.0070921985815602835,
-                                "sentence_normalized": 0.0022099447513812143
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " 14 is the winter solstice in Mars' southern hemisphere, which includes the region where Opportunity has been working since it landed in January 2004",
-                        "tokens": [
+                            "feb",
                             "14",
                             "winter",
                             "solstice",
@@ -2178,23 +2041,24 @@
                         ],
                         "weights": {
                             "sentence": {
-                                "14": 0.058823529411764705,
-                                "2004": 0.058823529411764705,
-                                "winter": 0.058823529411764705,
-                                "solstice": 0.058823529411764705,
-                                "mars": 0.058823529411764705,
-                                "southern": 0.058823529411764705,
-                                "hemisphere": 0.058823529411764705,
-                                "includes": 0.058823529411764705,
-                                "region": 0.058823529411764705,
-                                "where": 0.058823529411764705,
-                                "opportunity": 0.058823529411764705,
-                                "has": 0.058823529411764705,
-                                "been": 0.058823529411764705,
-                                "working": 0.058823529411764705,
-                                "since": 0.058823529411764705,
-                                "landed": 0.058823529411764705,
-                                "january": 0.058823529411764705
+                                "14": 0.05555555555555555,
+                                "2004": 0.05555555555555555,
+                                "feb": 0.05555555555555555,
+                                "winter": 0.05555555555555555,
+                                "solstice": 0.05555555555555555,
+                                "mars": 0.05555555555555555,
+                                "southern": 0.05555555555555555,
+                                "hemisphere": 0.05555555555555555,
+                                "includes": 0.05555555555555555,
+                                "region": 0.05555555555555555,
+                                "where": 0.05555555555555555,
+                                "opportunity": 0.05555555555555555,
+                                "has": 0.05555555555555555,
+                                "been": 0.05555555555555555,
+                                "working": 0.05555555555555555,
+                                "since": 0.05555555555555555,
+                                "landed": 0.05555555555555555,
+                                "january": 0.05555555555555555
                             },
                             "paragraph": {},
                             "document": {
@@ -2205,6 +2069,7 @@
                                 "january": 0.0070921985815602835,
                                 "where": 0.014184397163120567,
                                 "has": 0.010638297872340425,
+                                "feb": 0.0070921985815602835,
                                 "working": 0.0070921985815602835,
                                 "winter": 0.010638297872340425,
                                 "solstice": 0.0035460992907801418,
@@ -2219,8 +2084,8 @@
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.15248226950354613,
-                                "sentence_normalized": 0.04751381215469612
+                                "document": 0.15957446808510642,
+                                "sentence_normalized": 0.05079006772009029
                             }
                         }
                     }
@@ -2228,23 +2093,18 @@
                 "quota": 1,
                 "sentences_sorted": [
                     {
-                        "weight": 0.0607734806629834,
-                        "text": "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun",
+                        "weight": 0.06207674943566589,
+                        "text": "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun.",
                         "index": 0
                     },
                     {
-                        "weight": 0.04751381215469612,
-                        "text": " 14 is the winter solstice in Mars' southern hemisphere, which includes the region where Opportunity has been working since it landed in January 2004",
-                        "index": 2
-                    },
-                    {
-                        "weight": 0.0022099447513812143,
-                        "text": " Feb",
+                        "weight": 0.05079006772009029,
+                        "text": "Feb. 14 is the winter solstice in Mars' southern hemisphere, which includes the region where Opportunity has been working since it landed in January 2004.",
                         "index": 1
                     }
                 ],
                 "sentences_keep": [
-                    "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun"
+                    "Opportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun."
                 ]
             },
             {
@@ -2346,13 +2206,13 @@
                     },
                     "total": {
                         "words": 1.1428571428571428,
-                        "sentences": 0.38297872340425543,
-                        "normalized": 0.11933701657458562
+                        "sentences": 0.35815602836879434,
+                        "normalized": 0.11399548532731374
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif",
+                        "sentence": "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif. \"We now can expect to have more energy available each week.",
                         "tokens": [
                             "are",
                             "now",
@@ -2374,39 +2234,58 @@
                             "propulsion",
                             "laboratory",
                             "pasadena",
-                            "calif"
+                            "calif",
+                            "now",
+                            "can",
+                            "expect",
+                            "have",
+                            "more",
+                            "energy",
+                            "available",
+                            "each",
+                            "week"
                         ],
                         "weights": {
                             "sentence": {
-                                "are": 0.047619047619047616,
-                                "now": 0.047619047619047616,
-                                "past": 0.047619047619047616,
-                                "minimum": 0.047619047619047616,
-                                "solar": 0.047619047619047616,
-                                "energy": 0.047619047619047616,
-                                "point": 0.047619047619047616,
-                                "martian": 0.047619047619047616,
-                                "winter": 0.047619047619047616,
-                                "said": 0.047619047619047616,
-                                "opportunity": 0.047619047619047616,
-                                "project": 0.047619047619047616,
-                                "manager": 0.047619047619047616,
-                                "john": 0.047619047619047616,
-                                "callas": 0.047619047619047616,
-                                "nasa": 0.047619047619047616,
-                                "jet": 0.047619047619047616,
-                                "propulsion": 0.047619047619047616,
-                                "laboratory": 0.047619047619047616,
-                                "pasadena": 0.047619047619047616,
-                                "calif": 0.047619047619047616
+                                "are": 0.03571428571428571,
+                                "now": 0.07142857142857142,
+                                "past": 0.03571428571428571,
+                                "minimum": 0.03571428571428571,
+                                "solar": 0.03571428571428571,
+                                "energy": 0.07142857142857142,
+                                "point": 0.03571428571428571,
+                                "martian": 0.03571428571428571,
+                                "winter": 0.03571428571428571,
+                                "said": 0.03571428571428571,
+                                "opportunity": 0.03571428571428571,
+                                "project": 0.03571428571428571,
+                                "manager": 0.03571428571428571,
+                                "john": 0.03571428571428571,
+                                "callas": 0.03571428571428571,
+                                "nasa": 0.03571428571428571,
+                                "jet": 0.03571428571428571,
+                                "propulsion": 0.03571428571428571,
+                                "laboratory": 0.03571428571428571,
+                                "pasadena": 0.03571428571428571,
+                                "calif": 0.03571428571428571,
+                                "can": 0.03571428571428571,
+                                "expect": 0.03571428571428571,
+                                "have": 0.03571428571428571,
+                                "more": 0.03571428571428571,
+                                "available": 0.03571428571428571,
+                                "each": 0.03571428571428571,
+                                "week": 0.03571428571428571
                             },
                             "paragraph": {},
                             "document": {
+                                "have": 0.01773049645390071,
                                 "now": 0.014184397163120567,
                                 "martian": 0.0070921985815602835,
                                 "nasa": 0.01773049645390071,
                                 "opportunity": 0.03546099290780142,
+                                "more": 0.014184397163120567,
                                 "said": 0.014184397163120567,
+                                "can": 0.0070921985815602835,
                                 "are": 0.0070921985815602835,
                                 "energy": 0.010638297872340425,
                                 "solar": 0.010638297872340425,
@@ -2422,48 +2301,7 @@
                                 "propulsion": 0.0035460992907801418,
                                 "laboratory": 0.0035460992907801418,
                                 "pasadena": 0.0035460992907801418,
-                                "calif": 0.0035460992907801418
-                            },
-                            "total": {
-                                "sentence": 1,
-                                "paragraph": 0,
-                                "document": 0.173758865248227,
-                                "sentence_normalized": 0.05414364640883977
-                            }
-                        }
-                    },
-                    {
-                        "sentence": " \"We now can expect to have more energy available each week",
-                        "tokens": [
-                            "now",
-                            "can",
-                            "expect",
-                            "have",
-                            "more",
-                            "energy",
-                            "available",
-                            "each",
-                            "week"
-                        ],
-                        "weights": {
-                            "sentence": {
-                                "now": 0.1111111111111111,
-                                "can": 0.1111111111111111,
-                                "expect": 0.1111111111111111,
-                                "have": 0.1111111111111111,
-                                "more": 0.1111111111111111,
-                                "energy": 0.1111111111111111,
-                                "available": 0.1111111111111111,
-                                "each": 0.1111111111111111,
-                                "week": 0.1111111111111111
-                            },
-                            "paragraph": {},
-                            "document": {
-                                "have": 0.01773049645390071,
-                                "now": 0.014184397163120567,
-                                "more": 0.014184397163120567,
-                                "can": 0.0070921985815602835,
-                                "energy": 0.010638297872340425,
+                                "calif": 0.0035460992907801418,
                                 "expect": 0.0035460992907801418,
                                 "available": 0.0035460992907801418,
                                 "each": 0.0035460992907801418,
@@ -2472,13 +2310,13 @@
                             "total": {
                                 "sentence": 1,
                                 "paragraph": 0,
-                                "document": 0.07801418439716315,
-                                "sentence_normalized": 0.02430939226519337
+                                "document": 0.22695035460992913,
+                                "sentence_normalized": 0.07223476297968397
                             }
                         }
                     },
                     {
-                        "sentence": " What's more, recent winds removed some dust from the rover's solar array",
+                        "sentence": "What's more, recent winds removed some dust from the rover's solar array.",
                         "tokens": [
                             "more",
                             "recent",
@@ -2518,12 +2356,12 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.08156028368794326,
-                                "sentence_normalized": 0.025414364640883966
+                                "sentence_normalized": 0.025959367945823916
                             }
                         }
                     },
                     {
-                        "sentence": " So we have higher performance from the array than the previous two winters",
+                        "sentence": "So we have higher performance from the array than the previous two winters.\"",
                         "tokens": [
                             "so",
                             "have",
@@ -2563,7 +2401,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.049645390070921974,
-                                "sentence_normalized": 0.015469613259668497
+                                "sentence_normalized": 0.01580135440180586
                             }
                         }
                     }
@@ -2571,28 +2409,23 @@
                 "quota": 1,
                 "sentences_sorted": [
                     {
-                        "weight": 0.05414364640883977,
-                        "text": "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif",
+                        "weight": 0.07223476297968397,
+                        "text": "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif. \"We now can expect to have more energy available each week.",
                         "index": 0
                     },
                     {
-                        "weight": 0.025414364640883966,
-                        "text": " What's more, recent winds removed some dust from the rover's solar array",
-                        "index": 2
-                    },
-                    {
-                        "weight": 0.02430939226519337,
-                        "text": " \"We now can expect to have more energy available each week",
+                        "weight": 0.025959367945823916,
+                        "text": "What's more, recent winds removed some dust from the rover's solar array.",
                         "index": 1
                     },
                     {
-                        "weight": 0.015469613259668497,
-                        "text": " So we have higher performance from the array than the previous two winters",
-                        "index": 3
+                        "weight": 0.01580135440180586,
+                        "text": "So we have higher performance from the array than the previous two winters.\"",
+                        "index": 2
                     }
                 ],
                 "sentences_keep": [
-                    "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif"
+                    "\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif. \"We now can expect to have more energy available each week."
                 ]
             },
             {
@@ -2674,12 +2507,12 @@
                     "total": {
                         "words": 1.0909090909090904,
                         "sentences": 0.26595744680851074,
-                        "normalized": 0.08287292817679558
+                        "normalized": 0.08465011286681716
                     }
                 },
                 "sentences": [
                     {
-                        "sentence": "During Opportunity's decade on Mars, and the 2004-2010 career of its twin, Spirit, NASA's Mars Exploration Rover Project has yielded a range of findings proving wet environmental conditions on ancient Mars -- some very acidic, others milder and more conducive to supporting life",
+                        "sentence": "During Opportunity's decade on Mars, and the 2004-2010 career of its twin, Spirit, NASA's Mars Exploration Rover Project has yielded a range of findings proving wet environmental conditions on ancient Mars -- some very acidic, others milder and more conducive to supporting life.",
                         "tokens": [
                             "during",
                             "opportunity",
@@ -2794,7 +2627,7 @@
                                 "sentence": 1,
                                 "paragraph": 0,
                                 "document": 0.26595744680851074,
-                                "sentence_normalized": 0.08287292817679558
+                                "sentence_normalized": 0.08465011286681716
                             }
                         }
                     }
@@ -2802,8 +2635,8 @@
                 "quota": 0,
                 "sentences_sorted": [
                     {
-                        "weight": 0.08287292817679558,
-                        "text": "During Opportunity's decade on Mars, and the 2004-2010 career of its twin, Spirit, NASA's Mars Exploration Rover Project has yielded a range of findings proving wet environmental conditions on ancient Mars -- some very acidic, others milder and more conducive to supporting life",
+                        "weight": 0.08465011286681716,
+                        "text": "During Opportunity's decade on Mars, and the 2004-2010 career of its twin, Spirit, NASA's Mars Exploration Rover Project has yielded a range of findings proving wet environmental conditions on ancient Mars -- some very acidic, others milder and more conducive to supporting life.",
                         "index": 0
                     }
                 ],
@@ -3095,9 +2928,9 @@
             "life": 0.0035460992907801418
         }
     },
-    "text": "14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure.\r\n\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.\r\nOpportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun.\r\n\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif",
-    "s_weight": 3.20921985815603,
-    "ns_weight": 0.9999999999999996,
+    "text": "\"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance,\" said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St. Louis..\r\nBeverlin and McClure were the first recipients of the NASA Medal of Exceptional Bravery for their actions on Feb. 14, 1969, to save NASA's second successful Mars mission, Mariner 6, when the launch vehicle began to crumple on the launch pad from loss of pressure..\r\n\"Our team working on Opportunity's continuing mission of exploration and discovery realizes how indebted we are to the work of people who made the early missions to Mars possible, and in particular to the heroics of Bill McClure and Jack Beverlin,\" said rover team member James Rice of the Planetary Science Institute, Tucson, Ariz.  \"We felt this was really a fitting tribute to these brave men, especially with the 45th anniversary of their actions coming today.\".\r\nOpportunity's work on the north-facing slope below the escarpment will give the vehicle an energy advantage by tilting its solar panels toward the winter sun..\r\n\"We are now past the minimum solar-energy point of this Martian winter,\" said Opportunity Project Manager John Callas of NASA's Jet Propulsion Laboratory in Pasadena, Calif. \"We now can expect to have more energy available each week.",
+    "s_weight": 3.1418439716312068,
+    "ns_weight": 0.9999999999999999,
     "np_weight": 0.9999999999999999,
-    "quota_sum": 4
+    "quota_sum": 5
 }
