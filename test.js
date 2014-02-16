@@ -8,4 +8,5 @@ toolbox.file.read("example.txt", function(content) {
 	console.log("summary data",JSON.stringify(summary.text, null, 4));
 	toolbox.file.write("example-data.json", JSON.stringify(summary, null, 4));
 	toolbox.file.write("example-summary.txt", summary.text);
+	
 });
