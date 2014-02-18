@@ -1,21 +1,22 @@
-A region deep inside the brain controls how quickly people make decisions about love, according to new research at the University of Chicago.
+The brain of one monkey has been used to control the movements of another, "avatar", monkey, US scientists report.
+Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.
+The team hope the method can be refined to allow paralysed people to regain control of their own body.
 
-The finding, made in an examination of a 48-year-old man who suffered a stroke, provides the first causal clinical evidence that an area of the brain called the anterior insula "plays an instrumental role in love," said UChicago neuroscientist Stephanie Cacioppo, lead author of the study.
+The findings, published in Nature Communications, have been described as "a key step forward".
+Damage to the spinal cord can stop the flow of information from the brain to the body, leaving people unable to walk or feed themselves.
+The researchers are aiming to bridge the damage with machinery.
 
-In an earlier paper that analyzed research on the topic, Cacioppo and colleagues defined love as "an intentional state for intense [and long-term] longing for union with another" while lust, or sexual desire, is characterized by an intentional state for a short-term, pleasurable goal.
+Match electrical activity.
+The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.
+The master had a brain chip implanted that could monitor the activity of up to 100 neurons.
 
-In this study, the patient made decisions normally about lust but showed slower reaction times when making decisions about love, in contrast to neurologically typical participants matched on age, gender and ethnicity. The findings are presented in a paper, "Selective Decision-Making Deficit in Love Following Damage to the Anterior Insula," published in the journal Current Trends in Neurology.
+During training, the physical actions of the monkey were matched up with the patterns of electrical activity in the neurons.
+The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.
 
-"This distinction has been interpreted to mean that desire is a relatively concrete representation of sensory experiences, while love is a more abstract representation of those experiences," said Cacioppo, a research associate and assistant professor in psychology. The new data suggest that the posterior insula, which affects sensation and motor control, is implicated in feelings of lust or desire, while the anterior insula has a role in the more abstract representations involved in love.
+The two monkeys were then hooked up so that the brain scans in one controlled movements in real time in the other.
+The sedated avatar held a joystick, while the master had to think about moving a cursor up or down.
+In 98% of tests, the master could correctly control the avatar's arm.
 
-In the earlier paper, "The Common Neural Bases Between Sexual Desire and Love: A Multilevel Kernel Density fMRI Analysis," Cacioppo and colleagues examined a number of studies of brain scans that looked at differences between love and lust.
-
-The studies showed consistently that the anterior insula was associated with love, and the posterior insula was associated with lust. However, as in all fMRI studies, the findings were correlational.
-
-"We reasoned that if the anterior insula was the origin of the love response, we would find evidence for that in brain scans of someone whose anterior insula was damaged," she said.
-
-In the study, researchers examined a 48-year-old heterosexual male in Argentina, who had suffered a stroke that damaged the function of his anterior insula. He was matched with a control group of seven Argentinian heterosexual men of the same age who had healthy anterior insula.
-
-The patient and the control group were shown 40 photographs at random of attractive, young women dressed in appealing, short and long dresses and asked whether these women were objects of sexual desire or love. The patient with the damaged anterior insula showed a much slower response when asked if the women in the photos could be objects of love.
-
-"The current work makes it possible to disentangle love from other biological drives," the authors wrote. Such studies also could help researchers examine feelings of love by studying neurological activity rather than subjective questionnaires.
+One of the researchers, Dr Ziv Williams, told the BBC: "The goal is to take people with brain stem or spinal cord paralysis and bypass the injury.
+"The hope is ultimately to get completely natural movement, I think it's theoretically possible, but it will require an exponential additional effort to get to that point."
+He said that giving paralysed people even a small amount of movement could dramatically alter their quality of life.
