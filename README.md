@@ -5,7 +5,9 @@ A set of text summarization algorithms, based on various reseach papers and theo
 For each of the algorithms, you indicate how many sentences it should return.
 
 ### To run the test: ###
-Paste your aticle in `example.txt`, run `node test.js` and the summaries and debug data will be written into the `/output` folder.
+run `node test.js` and the summaries and debug data will be written into the `/output` folder.
+
+It will summarize the texts from example-01.txt, example-02.txt, example-03.txt and example-04.txt, using the 4 available algorithms.
 
 
 ## Algorithms ##
