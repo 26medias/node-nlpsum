@@ -4,15 +4,18 @@ var _ 			= require('underscore');
 
 var sum = new nlpsum();
 
-toolbox.file.read("example.txt", function(content) {
-	//console.log("test",sum.test(content));
-	var types = ["fractal","wordFrequency","sinFrequency"];
-	_.each(types, function(type) {
-		generateSummary(content, type);
-	});
-});
+var sources = ["example-01","example-02","example-03","example-04"];
 
-function generateSummary(content, type) {
+_.each(sources, function(filename) {
+	toolbox.file.read(filename+".txt", function(content) {
+		var types = ["fractal","wordFrequency","sinFrequency","sinWordFrequency"];
+		_.each(types, function(type) {
+			generateSummary(filename, content, type);
+		});
+	});
+})
+
+function generateSummary(filename, content, type) {
 	switch (type) {
 		default:
 		case "fractal":
@@ -24,12 +27,15 @@ function generateSummary(content, type) {
 		case "sinFrequency":
 			var summary = sum.sinFrequencySummary(content, 5);
 		break;
+		case "sinWordFrequency":
+			var summary = sum.sinWordFrequencySummary(content, 5);
+		break;
 	}
 	
-	console.log("\n\n-------------- ["+type+"] --------------");
+	console.log("\n\n-------------- ["+filename+"]["+type+"] --------------");
 	console.log(summary.text);
 	
-	toolbox.file.write("output/"+type+"-data.json", JSON.stringify(summary, null, 4));
-	toolbox.file.write("output/"+type+"-summary.txt", summary.text);
-	toolbox.file.write("output/"+type+"-tagged.json", JSON.stringify(sum.tag(summary.text), null, 4));
+	toolbox.file.write("output/"+filename+"-"+type+"-data.json", JSON.stringify(summary, null, 4));
+	toolbox.file.write("output/"+filename+"-"+type+"-summary.txt", summary.text);
+	toolbox.file.write("output/"+filename+"-"+type+"-tagged.json", JSON.stringify(sum.tag(summary.text), null, 4));
 }

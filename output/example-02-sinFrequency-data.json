@@ -1,0 +1,1623 @@
+{
+    "data": {
+        "sentences": [
+            {
+                "text": "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "least",
+                        "49",
+                        "people",
+                        "have",
+                        "been",
+                        "killed",
+                        "wave",
+                        "car",
+                        "bombs",
+                        "iraqi",
+                        "cities",
+                        "baghdad",
+                        "hilla",
+                        "officials",
+                        "say"
+                    ],
+                    "weights": {
+                        "words": {
+                            "49": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "have": 0.016853932584269662,
+                            "been": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "wave": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "bombs": 0.011235955056179775,
+                            "iraqi": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "officials": 0.0056179775280898875,
+                            "say": 0.016853932584269662
+                        },
+                        "total": 0.32022471910112354,
+                        "sinTransform": 1.5
+                    }
+                }
+            },
+            {
+                "text": "More people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "more",
+                        "people",
+                        "were",
+                        "killed",
+                        "iraq",
+                        "2013",
+                        "than",
+                        "any",
+                        "point",
+                        "since",
+                        "2008",
+                        "when",
+                        "sectarian",
+                        "violence",
+                        "reached",
+                        "its",
+                        "peak"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2008": 0.0056179775280898875,
+                            "2013": 0.011235955056179775,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "since": 0.011235955056179775,
+                            "iraq": 0.0056179775280898875,
+                            "any": 0.0056179775280898875,
+                            "point": 0.0056179775280898875,
+                            "when": 0.0056179775280898875,
+                            "sectarian": 0.0056179775280898875,
+                            "violence": 0.0056179775280898875,
+                            "reached": 0.0056179775280898875,
+                            "its": 0.0056179775280898875,
+                            "peak": 0.0056179775280898875
+                        },
+                        "total": 0.2672453946925562,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "The blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "blasts",
+                        "come",
+                        "day",
+                        "after",
+                        "least",
+                        "23",
+                        "people",
+                        "were",
+                        "killed",
+                        "bomb",
+                        "explosions",
+                        "iraqi",
+                        "capital"
+                    ],
+                    "weights": {
+                        "words": {
+                            "23": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "blasts": 0.0056179775280898875,
+                            "come": 0.0056179775280898875,
+                            "day": 0.0056179775280898875,
+                            "after": 0.0056179775280898875,
+                            "were": 0.028089887640449437,
+                            "bomb": 0.011235955056179775,
+                            "explosions": 0.0056179775280898875,
+                            "capital": 0.016853932584269662
+                        },
+                        "total": 0.2596098119870544,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "Last month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "last",
+                        "month",
+                        "more",
+                        "than",
+                        "1",
+                        "000",
+                        "people",
+                        "were",
+                        "killed",
+                        "attacks",
+                        "mostly",
+                        "hit",
+                        "shia",
+                        "government",
+                        "targets"
+                    ],
+                    "weights": {
+                        "words": {
+                            "1": 0.0056179775280898875,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "last": 0.0056179775280898875,
+                            "month": 0.0056179775280898875,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "000": 0.0056179775280898875,
+                            "attacks": 0.016853932584269662,
+                            "mostly": 0.0056179775280898875,
+                            "hit": 0.0056179775280898875,
+                            "shia": 0.016853932584269662,
+                            "government": 0.011235955056179775,
+                            "targets": 0.0056179775280898875
+                        },
+                        "total": 0.24869924317864742,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "Al-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "al",
+                        "jazeera",
+                        "also",
+                        "reports",
+                        "13",
+                        "iraqi",
+                        "soldiers",
+                        "were",
+                        "killed",
+                        "separate",
+                        "battle",
+                        "sunni",
+                        "fighters",
+                        "fallujah",
+                        "anbar",
+                        "province",
+                        "on",
+                        "tuesday"
+                    ],
+                    "weights": {
+                        "words": {
+                            "13": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "sunni": 0.011235955056179775,
+                            "tuesday": 0.011235955056179775,
+                            "reports": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "jazeera": 0.0056179775280898875,
+                            "also": 0.0056179775280898875,
+                            "soldiers": 0.0056179775280898875,
+                            "separate": 0.0056179775280898875,
+                            "battle": 0.0056179775280898875,
+                            "fighters": 0.0056179775280898875,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "on": 0.0056179775280898875
+                        },
+                        "total": 0.22694667225631102,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "Police say all Tuesday's attacks were caused by cars parked in or near commercial areas and bus stations, reports the Associated Press (AP) news agency.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "police",
+                        "say",
+                        "all",
+                        "tuesday",
+                        "attacks",
+                        "were",
+                        "caused",
+                        "by",
+                        "cars",
+                        "parked",
+                        "near",
+                        "commercial",
+                        "areas",
+                        "bus",
+                        "stations",
+                        "reports",
+                        "associated",
+                        "press",
+                        "ap",
+                        "news",
+                        "agency"
+                    ],
+                    "weights": {
+                        "words": {
+                            "say": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "attacks": 0.016853932584269662,
+                            "areas": 0.011235955056179775,
+                            "parked": 0.011235955056179775,
+                            "near": 0.011235955056179775,
+                            "bus": 0.011235955056179775,
+                            "police": 0.0056179775280898875,
+                            "all": 0.0056179775280898875,
+                            "tuesday": 0.011235955056179775,
+                            "caused": 0.0056179775280898875,
+                            "by": 0.0056179775280898875,
+                            "cars": 0.0056179775280898875,
+                            "commercial": 0.0056179775280898875,
+                            "stations": 0.0056179775280898875,
+                            "reports": 0.011235955056179775,
+                            "associated": 0.0056179775280898875,
+                            "press": 0.0056179775280898875,
+                            "ap": 0.0056179775280898875,
+                            "news": 0.0056179775280898875,
+                            "agency": 0.0056179775280898875
+                        },
+                        "total": 0.20551370832188734,
+                        "sinTransform": 1.0451840023227408
+                    }
+                }
+            },
+            {
+                "text": "Fallujah and other cities in Anbar province have seen fierce fighting between government forces and al-Qaeda affiliated militants since December 2013.",
+                "index": 9,
+                "data": {
+                    "tokens": [
+                        "fallujah",
+                        "other",
+                        "cities",
+                        "anbar",
+                        "province",
+                        "have",
+                        "seen",
+                        "fierce",
+                        "fighting",
+                        "between",
+                        "government",
+                        "forces",
+                        "al",
+                        "qaeda",
+                        "affiliated",
+                        "militants",
+                        "since",
+                        "december",
+                        "2013"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2013": 0.011235955056179775,
+                            "have": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "government": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "other": 0.0056179775280898875,
+                            "seen": 0.0056179775280898875,
+                            "fierce": 0.0056179775280898875,
+                            "fighting": 0.0056179775280898875,
+                            "between": 0.0056179775280898875,
+                            "forces": 0.0056179775280898875,
+                            "qaeda": 0.0056179775280898875,
+                            "affiliated": 0.0056179775280898875,
+                            "militants": 0.0056179775280898875,
+                            "since": 0.011235955056179775,
+                            "december": 0.0056179775280898875
+                        },
+                        "total": 0.20034105700502156,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "In one attack, a bomb inside a parked vehicle exploded near a bus station in the capital's Bayaa district, killing five people, sources said.",
+                "index": 6,
+                "data": {
+                    "tokens": [
+                        "one",
+                        "attack",
+                        "bomb",
+                        "inside",
+                        "parked",
+                        "vehicle",
+                        "exploded",
+                        "near",
+                        "bus",
+                        "station",
+                        "capital",
+                        "bayaa",
+                        "district",
+                        "killing",
+                        "five",
+                        "people",
+                        "sources",
+                        "said"
+                    ],
+                    "weights": {
+                        "words": {
+                            "people": 0.033707865168539325,
+                            "bomb": 0.011235955056179775,
+                            "capital": 0.016853932584269662,
+                            "sources": 0.011235955056179775,
+                            "one": 0.0056179775280898875,
+                            "attack": 0.0056179775280898875,
+                            "inside": 0.0056179775280898875,
+                            "parked": 0.011235955056179775,
+                            "vehicle": 0.0056179775280898875,
+                            "exploded": 0.0056179775280898875,
+                            "near": 0.011235955056179775,
+                            "bus": 0.011235955056179775,
+                            "station": 0.0056179775280898875,
+                            "bayaa": 0.0056179775280898875,
+                            "district": 0.0056179775280898875,
+                            "killing": 0.0056179775280898875,
+                            "five": 0.0056179775280898875,
+                            "said": 0.0056179775280898875
+                        },
+                        "total": 0.16939706950441585,
+                        "sinTransform": 1.0050892790595336
+                    }
+                }
+            },
+            {
+                "text": "No group has yet claimed responsibility for the attacks, but in the past Sunni militant groups have targeted Shia areas.",
+                "index": 3,
+                "data": {
+                    "tokens": [
+                        "no",
+                        "group",
+                        "has",
+                        "yet",
+                        "claimed",
+                        "responsibility",
+                        "for",
+                        "attacks",
+                        "but",
+                        "past",
+                        "sunni",
+                        "militant",
+                        "groups",
+                        "have",
+                        "targeted",
+                        "shia",
+                        "areas"
+                    ],
+                    "weights": {
+                        "words": {
+                            "have": 0.016853932584269662,
+                            "attacks": 0.016853932584269662,
+                            "shia": 0.016853932584269662,
+                            "no": 0.0056179775280898875,
+                            "group": 0.0056179775280898875,
+                            "has": 0.011235955056179775,
+                            "yet": 0.0056179775280898875,
+                            "claimed": 0.0056179775280898875,
+                            "responsibility": 0.0056179775280898875,
+                            "for": 0.0056179775280898875,
+                            "but": 0.0056179775280898875,
+                            "past": 0.0056179775280898875,
+                            "sunni": 0.011235955056179775,
+                            "militant": 0.0056179775280898875,
+                            "groups": 0.0056179775280898875,
+                            "targeted": 0.0056179775280898875,
+                            "areas": 0.011235955056179775
+                        },
+                        "total": 0.16390592996289124,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "In the capital Baghdad, bombs in mainly Shia districts killed at least 14 people.",
+                "index": 5,
+                "data": {
+                    "tokens": [
+                        "capital",
+                        "baghdad",
+                        "bombs",
+                        "mainly",
+                        "shia",
+                        "districts",
+                        "killed",
+                        "least",
+                        "14",
+                        "people"
+                    ],
+                    "weights": {
+                        "words": {
+                            "14": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "bombs": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "capital": 0.016853932584269662,
+                            "shia": 0.016853932584269662,
+                            "mainly": 0.0056179775280898875,
+                            "districts": 0.0056179775280898875
+                        },
+                        "total": 0.15810393153745472,
+                        "sinTransform": 1.0050892790595336
+                    }
+                }
+            },
+            {
+                "text": "Medical sources in Hilla say the main hospital has so far received 35 bodies from seven car bombings.",
+                "index": 4,
+                "data": {
+                    "tokens": [
+                        "medical",
+                        "sources",
+                        "hilla",
+                        "say",
+                        "main",
+                        "hospital",
+                        "has",
+                        "so",
+                        "far",
+                        "received",
+                        "35",
+                        "bodies",
+                        "seven",
+                        "car",
+                        "bombings"
+                    ],
+                    "weights": {
+                        "words": {
+                            "35": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "say": 0.016853932584269662,
+                            "has": 0.011235955056179775,
+                            "medical": 0.0056179775280898875,
+                            "sources": 0.011235955056179775,
+                            "main": 0.0056179775280898875,
+                            "hospital": 0.0056179775280898875,
+                            "so": 0.0056179775280898875,
+                            "far": 0.0056179775280898875,
+                            "received": 0.0056179775280898875,
+                            "bodies": 0.0056179775280898875,
+                            "seven": 0.0056179775280898875,
+                            "bombings": 0.0056179775280898875
+                        },
+                        "total": 0.12330822499313233,
+                        "sinTransform": 1.0451840023227408
+                    }
+                }
+            }
+        ],
+        "ordered": [
+            {
+                "text": "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "least",
+                        "49",
+                        "people",
+                        "have",
+                        "been",
+                        "killed",
+                        "wave",
+                        "car",
+                        "bombs",
+                        "iraqi",
+                        "cities",
+                        "baghdad",
+                        "hilla",
+                        "officials",
+                        "say"
+                    ],
+                    "weights": {
+                        "words": {
+                            "49": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "have": 0.016853932584269662,
+                            "been": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "wave": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "bombs": 0.011235955056179775,
+                            "iraqi": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "officials": 0.0056179775280898875,
+                            "say": 0.016853932584269662
+                        },
+                        "total": 0.32022471910112354,
+                        "sinTransform": 1.5
+                    }
+                }
+            },
+            {
+                "text": "More people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "more",
+                        "people",
+                        "were",
+                        "killed",
+                        "iraq",
+                        "2013",
+                        "than",
+                        "any",
+                        "point",
+                        "since",
+                        "2008",
+                        "when",
+                        "sectarian",
+                        "violence",
+                        "reached",
+                        "its",
+                        "peak"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2008": 0.0056179775280898875,
+                            "2013": 0.011235955056179775,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "since": 0.011235955056179775,
+                            "iraq": 0.0056179775280898875,
+                            "any": 0.0056179775280898875,
+                            "point": 0.0056179775280898875,
+                            "when": 0.0056179775280898875,
+                            "sectarian": 0.0056179775280898875,
+                            "violence": 0.0056179775280898875,
+                            "reached": 0.0056179775280898875,
+                            "its": 0.0056179775280898875,
+                            "peak": 0.0056179775280898875
+                        },
+                        "total": 0.2672453946925562,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "The blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "blasts",
+                        "come",
+                        "day",
+                        "after",
+                        "least",
+                        "23",
+                        "people",
+                        "were",
+                        "killed",
+                        "bomb",
+                        "explosions",
+                        "iraqi",
+                        "capital"
+                    ],
+                    "weights": {
+                        "words": {
+                            "23": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "blasts": 0.0056179775280898875,
+                            "come": 0.0056179775280898875,
+                            "day": 0.0056179775280898875,
+                            "after": 0.0056179775280898875,
+                            "were": 0.028089887640449437,
+                            "bomb": 0.011235955056179775,
+                            "explosions": 0.0056179775280898875,
+                            "capital": 0.016853932584269662
+                        },
+                        "total": 0.2596098119870544,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "Last month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "last",
+                        "month",
+                        "more",
+                        "than",
+                        "1",
+                        "000",
+                        "people",
+                        "were",
+                        "killed",
+                        "attacks",
+                        "mostly",
+                        "hit",
+                        "shia",
+                        "government",
+                        "targets"
+                    ],
+                    "weights": {
+                        "words": {
+                            "1": 0.0056179775280898875,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "last": 0.0056179775280898875,
+                            "month": 0.0056179775280898875,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "000": 0.0056179775280898875,
+                            "attacks": 0.016853932584269662,
+                            "mostly": 0.0056179775280898875,
+                            "hit": 0.0056179775280898875,
+                            "shia": 0.016853932584269662,
+                            "government": 0.011235955056179775,
+                            "targets": 0.0056179775280898875
+                        },
+                        "total": 0.24869924317864742,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "Al-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "al",
+                        "jazeera",
+                        "also",
+                        "reports",
+                        "13",
+                        "iraqi",
+                        "soldiers",
+                        "were",
+                        "killed",
+                        "separate",
+                        "battle",
+                        "sunni",
+                        "fighters",
+                        "fallujah",
+                        "anbar",
+                        "province",
+                        "on",
+                        "tuesday"
+                    ],
+                    "weights": {
+                        "words": {
+                            "13": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "sunni": 0.011235955056179775,
+                            "tuesday": 0.011235955056179775,
+                            "reports": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "jazeera": 0.0056179775280898875,
+                            "also": 0.0056179775280898875,
+                            "soldiers": 0.0056179775280898875,
+                            "separate": 0.0056179775280898875,
+                            "battle": 0.0056179775280898875,
+                            "fighters": 0.0056179775280898875,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "on": 0.0056179775280898875
+                        },
+                        "total": 0.22694667225631102,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "Police say all Tuesday's attacks were caused by cars parked in or near commercial areas and bus stations, reports the Associated Press (AP) news agency.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "police",
+                        "say",
+                        "all",
+                        "tuesday",
+                        "attacks",
+                        "were",
+                        "caused",
+                        "by",
+                        "cars",
+                        "parked",
+                        "near",
+                        "commercial",
+                        "areas",
+                        "bus",
+                        "stations",
+                        "reports",
+                        "associated",
+                        "press",
+                        "ap",
+                        "news",
+                        "agency"
+                    ],
+                    "weights": {
+                        "words": {
+                            "say": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "attacks": 0.016853932584269662,
+                            "areas": 0.011235955056179775,
+                            "parked": 0.011235955056179775,
+                            "near": 0.011235955056179775,
+                            "bus": 0.011235955056179775,
+                            "police": 0.0056179775280898875,
+                            "all": 0.0056179775280898875,
+                            "tuesday": 0.011235955056179775,
+                            "caused": 0.0056179775280898875,
+                            "by": 0.0056179775280898875,
+                            "cars": 0.0056179775280898875,
+                            "commercial": 0.0056179775280898875,
+                            "stations": 0.0056179775280898875,
+                            "reports": 0.011235955056179775,
+                            "associated": 0.0056179775280898875,
+                            "press": 0.0056179775280898875,
+                            "ap": 0.0056179775280898875,
+                            "news": 0.0056179775280898875,
+                            "agency": 0.0056179775280898875
+                        },
+                        "total": 0.20551370832188734,
+                        "sinTransform": 1.0451840023227408
+                    }
+                }
+            },
+            {
+                "text": "Fallujah and other cities in Anbar province have seen fierce fighting between government forces and al-Qaeda affiliated militants since December 2013.",
+                "index": 9,
+                "data": {
+                    "tokens": [
+                        "fallujah",
+                        "other",
+                        "cities",
+                        "anbar",
+                        "province",
+                        "have",
+                        "seen",
+                        "fierce",
+                        "fighting",
+                        "between",
+                        "government",
+                        "forces",
+                        "al",
+                        "qaeda",
+                        "affiliated",
+                        "militants",
+                        "since",
+                        "december",
+                        "2013"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2013": 0.011235955056179775,
+                            "have": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "government": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "other": 0.0056179775280898875,
+                            "seen": 0.0056179775280898875,
+                            "fierce": 0.0056179775280898875,
+                            "fighting": 0.0056179775280898875,
+                            "between": 0.0056179775280898875,
+                            "forces": 0.0056179775280898875,
+                            "qaeda": 0.0056179775280898875,
+                            "affiliated": 0.0056179775280898875,
+                            "militants": 0.0056179775280898875,
+                            "since": 0.011235955056179775,
+                            "december": 0.0056179775280898875
+                        },
+                        "total": 0.20034105700502156,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "In one attack, a bomb inside a parked vehicle exploded near a bus station in the capital's Bayaa district, killing five people, sources said.",
+                "index": 6,
+                "data": {
+                    "tokens": [
+                        "one",
+                        "attack",
+                        "bomb",
+                        "inside",
+                        "parked",
+                        "vehicle",
+                        "exploded",
+                        "near",
+                        "bus",
+                        "station",
+                        "capital",
+                        "bayaa",
+                        "district",
+                        "killing",
+                        "five",
+                        "people",
+                        "sources",
+                        "said"
+                    ],
+                    "weights": {
+                        "words": {
+                            "people": 0.033707865168539325,
+                            "bomb": 0.011235955056179775,
+                            "capital": 0.016853932584269662,
+                            "sources": 0.011235955056179775,
+                            "one": 0.0056179775280898875,
+                            "attack": 0.0056179775280898875,
+                            "inside": 0.0056179775280898875,
+                            "parked": 0.011235955056179775,
+                            "vehicle": 0.0056179775280898875,
+                            "exploded": 0.0056179775280898875,
+                            "near": 0.011235955056179775,
+                            "bus": 0.011235955056179775,
+                            "station": 0.0056179775280898875,
+                            "bayaa": 0.0056179775280898875,
+                            "district": 0.0056179775280898875,
+                            "killing": 0.0056179775280898875,
+                            "five": 0.0056179775280898875,
+                            "said": 0.0056179775280898875
+                        },
+                        "total": 0.16939706950441585,
+                        "sinTransform": 1.0050892790595336
+                    }
+                }
+            },
+            {
+                "text": "No group has yet claimed responsibility for the attacks, but in the past Sunni militant groups have targeted Shia areas.",
+                "index": 3,
+                "data": {
+                    "tokens": [
+                        "no",
+                        "group",
+                        "has",
+                        "yet",
+                        "claimed",
+                        "responsibility",
+                        "for",
+                        "attacks",
+                        "but",
+                        "past",
+                        "sunni",
+                        "militant",
+                        "groups",
+                        "have",
+                        "targeted",
+                        "shia",
+                        "areas"
+                    ],
+                    "weights": {
+                        "words": {
+                            "have": 0.016853932584269662,
+                            "attacks": 0.016853932584269662,
+                            "shia": 0.016853932584269662,
+                            "no": 0.0056179775280898875,
+                            "group": 0.0056179775280898875,
+                            "has": 0.011235955056179775,
+                            "yet": 0.0056179775280898875,
+                            "claimed": 0.0056179775280898875,
+                            "responsibility": 0.0056179775280898875,
+                            "for": 0.0056179775280898875,
+                            "but": 0.0056179775280898875,
+                            "past": 0.0056179775280898875,
+                            "sunni": 0.011235955056179775,
+                            "militant": 0.0056179775280898875,
+                            "groups": 0.0056179775280898875,
+                            "targeted": 0.0056179775280898875,
+                            "areas": 0.011235955056179775
+                        },
+                        "total": 0.16390592996289124,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "In the capital Baghdad, bombs in mainly Shia districts killed at least 14 people.",
+                "index": 5,
+                "data": {
+                    "tokens": [
+                        "capital",
+                        "baghdad",
+                        "bombs",
+                        "mainly",
+                        "shia",
+                        "districts",
+                        "killed",
+                        "least",
+                        "14",
+                        "people"
+                    ],
+                    "weights": {
+                        "words": {
+                            "14": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "bombs": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "capital": 0.016853932584269662,
+                            "shia": 0.016853932584269662,
+                            "mainly": 0.0056179775280898875,
+                            "districts": 0.0056179775280898875
+                        },
+                        "total": 0.15810393153745472,
+                        "sinTransform": 1.0050892790595336
+                    }
+                }
+            },
+            {
+                "text": "Medical sources in Hilla say the main hospital has so far received 35 bodies from seven car bombings.",
+                "index": 4,
+                "data": {
+                    "tokens": [
+                        "medical",
+                        "sources",
+                        "hilla",
+                        "say",
+                        "main",
+                        "hospital",
+                        "has",
+                        "so",
+                        "far",
+                        "received",
+                        "35",
+                        "bodies",
+                        "seven",
+                        "car",
+                        "bombings"
+                    ],
+                    "weights": {
+                        "words": {
+                            "35": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "say": 0.016853932584269662,
+                            "has": 0.011235955056179775,
+                            "medical": 0.0056179775280898875,
+                            "sources": 0.011235955056179775,
+                            "main": 0.0056179775280898875,
+                            "hospital": 0.0056179775280898875,
+                            "so": 0.0056179775280898875,
+                            "far": 0.0056179775280898875,
+                            "received": 0.0056179775280898875,
+                            "bodies": 0.0056179775280898875,
+                            "seven": 0.0056179775280898875,
+                            "bombings": 0.0056179775280898875
+                        },
+                        "total": 0.12330822499313233,
+                        "sinTransform": 1.0451840023227408
+                    }
+                }
+            }
+        ],
+        "weights": {
+            "words": {
+                "1": 0.0056179775280898875,
+                "13": 0.0056179775280898875,
+                "14": 0.0056179775280898875,
+                "23": 0.0056179775280898875,
+                "35": 0.0056179775280898875,
+                "49": 0.0056179775280898875,
+                "2008": 0.0056179775280898875,
+                "2013": 0.011235955056179775,
+                "least": 0.016853932584269662,
+                "people": 0.033707865168539325,
+                "have": 0.016853932584269662,
+                "been": 0.0056179775280898875,
+                "killed": 0.033707865168539325,
+                "wave": 0.0056179775280898875,
+                "car": 0.011235955056179775,
+                "bombs": 0.011235955056179775,
+                "iraqi": 0.016853932584269662,
+                "cities": 0.011235955056179775,
+                "baghdad": 0.011235955056179775,
+                "hilla": 0.011235955056179775,
+                "officials": 0.0056179775280898875,
+                "say": 0.016853932584269662,
+                "blasts": 0.0056179775280898875,
+                "come": 0.0056179775280898875,
+                "day": 0.0056179775280898875,
+                "after": 0.0056179775280898875,
+                "were": 0.028089887640449437,
+                "bomb": 0.011235955056179775,
+                "explosions": 0.0056179775280898875,
+                "capital": 0.016853932584269662,
+                "last": 0.0056179775280898875,
+                "month": 0.0056179775280898875,
+                "more": 0.011235955056179775,
+                "than": 0.011235955056179775,
+                "000": 0.0056179775280898875,
+                "attacks": 0.016853932584269662,
+                "mostly": 0.0056179775280898875,
+                "hit": 0.0056179775280898875,
+                "shia": 0.016853932584269662,
+                "government": 0.011235955056179775,
+                "targets": 0.0056179775280898875,
+                "no": 0.0056179775280898875,
+                "group": 0.0056179775280898875,
+                "has": 0.011235955056179775,
+                "yet": 0.0056179775280898875,
+                "claimed": 0.0056179775280898875,
+                "responsibility": 0.0056179775280898875,
+                "for": 0.0056179775280898875,
+                "but": 0.0056179775280898875,
+                "past": 0.0056179775280898875,
+                "sunni": 0.011235955056179775,
+                "militant": 0.0056179775280898875,
+                "groups": 0.0056179775280898875,
+                "targeted": 0.0056179775280898875,
+                "areas": 0.011235955056179775,
+                "medical": 0.0056179775280898875,
+                "sources": 0.011235955056179775,
+                "main": 0.0056179775280898875,
+                "hospital": 0.0056179775280898875,
+                "so": 0.0056179775280898875,
+                "far": 0.0056179775280898875,
+                "received": 0.0056179775280898875,
+                "bodies": 0.0056179775280898875,
+                "seven": 0.0056179775280898875,
+                "bombings": 0.0056179775280898875,
+                "mainly": 0.0056179775280898875,
+                "districts": 0.0056179775280898875,
+                "one": 0.0056179775280898875,
+                "attack": 0.0056179775280898875,
+                "inside": 0.0056179775280898875,
+                "parked": 0.011235955056179775,
+                "vehicle": 0.0056179775280898875,
+                "exploded": 0.0056179775280898875,
+                "near": 0.011235955056179775,
+                "bus": 0.011235955056179775,
+                "station": 0.0056179775280898875,
+                "bayaa": 0.0056179775280898875,
+                "district": 0.0056179775280898875,
+                "killing": 0.0056179775280898875,
+                "five": 0.0056179775280898875,
+                "said": 0.0056179775280898875,
+                "police": 0.0056179775280898875,
+                "all": 0.0056179775280898875,
+                "tuesday": 0.011235955056179775,
+                "caused": 0.0056179775280898875,
+                "by": 0.0056179775280898875,
+                "cars": 0.0056179775280898875,
+                "commercial": 0.0056179775280898875,
+                "stations": 0.0056179775280898875,
+                "reports": 0.011235955056179775,
+                "associated": 0.0056179775280898875,
+                "press": 0.0056179775280898875,
+                "ap": 0.0056179775280898875,
+                "news": 0.0056179775280898875,
+                "agency": 0.0056179775280898875,
+                "al": 0.011235955056179775,
+                "jazeera": 0.0056179775280898875,
+                "also": 0.0056179775280898875,
+                "soldiers": 0.0056179775280898875,
+                "separate": 0.0056179775280898875,
+                "battle": 0.0056179775280898875,
+                "fighters": 0.0056179775280898875,
+                "fallujah": 0.011235955056179775,
+                "anbar": 0.011235955056179775,
+                "province": 0.011235955056179775,
+                "on": 0.0056179775280898875,
+                "other": 0.0056179775280898875,
+                "seen": 0.0056179775280898875,
+                "fierce": 0.0056179775280898875,
+                "fighting": 0.0056179775280898875,
+                "between": 0.0056179775280898875,
+                "forces": 0.0056179775280898875,
+                "qaeda": 0.0056179775280898875,
+                "affiliated": 0.0056179775280898875,
+                "militants": 0.0056179775280898875,
+                "since": 0.011235955056179775,
+                "december": 0.0056179775280898875,
+                "iraq": 0.0056179775280898875,
+                "any": 0.0056179775280898875,
+                "point": 0.0056179775280898875,
+                "when": 0.0056179775280898875,
+                "sectarian": 0.0056179775280898875,
+                "violence": 0.0056179775280898875,
+                "reached": 0.0056179775280898875,
+                "its": 0.0056179775280898875,
+                "peak": 0.0056179775280898875
+            },
+            "total": 1.0000000000000013
+        },
+        "keep": [
+            {
+                "text": "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "least",
+                        "49",
+                        "people",
+                        "have",
+                        "been",
+                        "killed",
+                        "wave",
+                        "car",
+                        "bombs",
+                        "iraqi",
+                        "cities",
+                        "baghdad",
+                        "hilla",
+                        "officials",
+                        "say"
+                    ],
+                    "weights": {
+                        "words": {
+                            "49": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "have": 0.016853932584269662,
+                            "been": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "wave": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "bombs": 0.011235955056179775,
+                            "iraqi": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "officials": 0.0056179775280898875,
+                            "say": 0.016853932584269662
+                        },
+                        "total": 0.32022471910112354,
+                        "sinTransform": 1.5
+                    }
+                }
+            },
+            {
+                "text": "The blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "blasts",
+                        "come",
+                        "day",
+                        "after",
+                        "least",
+                        "23",
+                        "people",
+                        "were",
+                        "killed",
+                        "bomb",
+                        "explosions",
+                        "iraqi",
+                        "capital"
+                    ],
+                    "weights": {
+                        "words": {
+                            "23": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "blasts": 0.0056179775280898875,
+                            "come": 0.0056179775280898875,
+                            "day": 0.0056179775280898875,
+                            "after": 0.0056179775280898875,
+                            "were": 0.028089887640449437,
+                            "bomb": 0.011235955056179775,
+                            "explosions": 0.0056179775280898875,
+                            "capital": 0.016853932584269662
+                        },
+                        "total": 0.2596098119870544,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "Last month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "last",
+                        "month",
+                        "more",
+                        "than",
+                        "1",
+                        "000",
+                        "people",
+                        "were",
+                        "killed",
+                        "attacks",
+                        "mostly",
+                        "hit",
+                        "shia",
+                        "government",
+                        "targets"
+                    ],
+                    "weights": {
+                        "words": {
+                            "1": 0.0056179775280898875,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "last": 0.0056179775280898875,
+                            "month": 0.0056179775280898875,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "000": 0.0056179775280898875,
+                            "attacks": 0.016853932584269662,
+                            "mostly": 0.0056179775280898875,
+                            "hit": 0.0056179775280898875,
+                            "shia": 0.016853932584269662,
+                            "government": 0.011235955056179775,
+                            "targets": 0.0056179775280898875
+                        },
+                        "total": 0.24869924317864742,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "Al-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "al",
+                        "jazeera",
+                        "also",
+                        "reports",
+                        "13",
+                        "iraqi",
+                        "soldiers",
+                        "were",
+                        "killed",
+                        "separate",
+                        "battle",
+                        "sunni",
+                        "fighters",
+                        "fallujah",
+                        "anbar",
+                        "province",
+                        "on",
+                        "tuesday"
+                    ],
+                    "weights": {
+                        "words": {
+                            "13": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "sunni": 0.011235955056179775,
+                            "tuesday": 0.011235955056179775,
+                            "reports": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "jazeera": 0.0056179775280898875,
+                            "also": 0.0056179775280898875,
+                            "soldiers": 0.0056179775280898875,
+                            "separate": 0.0056179775280898875,
+                            "battle": 0.0056179775280898875,
+                            "fighters": 0.0056179775280898875,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "on": 0.0056179775280898875
+                        },
+                        "total": 0.22694667225631102,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "More people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "more",
+                        "people",
+                        "were",
+                        "killed",
+                        "iraq",
+                        "2013",
+                        "than",
+                        "any",
+                        "point",
+                        "since",
+                        "2008",
+                        "when",
+                        "sectarian",
+                        "violence",
+                        "reached",
+                        "its",
+                        "peak"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2008": 0.0056179775280898875,
+                            "2013": 0.011235955056179775,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "since": 0.011235955056179775,
+                            "iraq": 0.0056179775280898875,
+                            "any": 0.0056179775280898875,
+                            "point": 0.0056179775280898875,
+                            "when": 0.0056179775280898875,
+                            "sectarian": 0.0056179775280898875,
+                            "violence": 0.0056179775280898875,
+                            "reached": 0.0056179775280898875,
+                            "its": 0.0056179775280898875,
+                            "peak": 0.0056179775280898875
+                        },
+                        "total": 0.2672453946925562,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            }
+        ],
+        "indexed": [
+            {
+                "text": "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "least",
+                        "49",
+                        "people",
+                        "have",
+                        "been",
+                        "killed",
+                        "wave",
+                        "car",
+                        "bombs",
+                        "iraqi",
+                        "cities",
+                        "baghdad",
+                        "hilla",
+                        "officials",
+                        "say"
+                    ],
+                    "weights": {
+                        "words": {
+                            "49": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "have": 0.016853932584269662,
+                            "been": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "wave": 0.0056179775280898875,
+                            "car": 0.011235955056179775,
+                            "bombs": 0.011235955056179775,
+                            "iraqi": 0.016853932584269662,
+                            "cities": 0.011235955056179775,
+                            "baghdad": 0.011235955056179775,
+                            "hilla": 0.011235955056179775,
+                            "officials": 0.0056179775280898875,
+                            "say": 0.016853932584269662
+                        },
+                        "total": 0.32022471910112354,
+                        "sinTransform": 1.5
+                    }
+                }
+            },
+            {
+                "text": "The blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "blasts",
+                        "come",
+                        "day",
+                        "after",
+                        "least",
+                        "23",
+                        "people",
+                        "were",
+                        "killed",
+                        "bomb",
+                        "explosions",
+                        "iraqi",
+                        "capital"
+                    ],
+                    "weights": {
+                        "words": {
+                            "23": 0.0056179775280898875,
+                            "least": 0.016853932584269662,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "blasts": 0.0056179775280898875,
+                            "come": 0.0056179775280898875,
+                            "day": 0.0056179775280898875,
+                            "after": 0.0056179775280898875,
+                            "were": 0.028089887640449437,
+                            "bomb": 0.011235955056179775,
+                            "explosions": 0.0056179775280898875,
+                            "capital": 0.016853932584269662
+                        },
+                        "total": 0.2596098119870544,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            },
+            {
+                "text": "Last month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "last",
+                        "month",
+                        "more",
+                        "than",
+                        "1",
+                        "000",
+                        "people",
+                        "were",
+                        "killed",
+                        "attacks",
+                        "mostly",
+                        "hit",
+                        "shia",
+                        "government",
+                        "targets"
+                    ],
+                    "weights": {
+                        "words": {
+                            "1": 0.0056179775280898875,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "last": 0.0056179775280898875,
+                            "month": 0.0056179775280898875,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "000": 0.0056179775280898875,
+                            "attacks": 0.016853932584269662,
+                            "mostly": 0.0056179775280898875,
+                            "hit": 0.0056179775280898875,
+                            "shia": 0.016853932584269662,
+                            "government": 0.011235955056179775,
+                            "targets": 0.0056179775280898875
+                        },
+                        "total": 0.24869924317864742,
+                        "sinTransform": 1.2296795912722012
+                    }
+                }
+            },
+            {
+                "text": "Al-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "al",
+                        "jazeera",
+                        "also",
+                        "reports",
+                        "13",
+                        "iraqi",
+                        "soldiers",
+                        "were",
+                        "killed",
+                        "separate",
+                        "battle",
+                        "sunni",
+                        "fighters",
+                        "fallujah",
+                        "anbar",
+                        "province",
+                        "on",
+                        "tuesday"
+                    ],
+                    "weights": {
+                        "words": {
+                            "13": 0.0056179775280898875,
+                            "killed": 0.033707865168539325,
+                            "iraqi": 0.016853932584269662,
+                            "were": 0.028089887640449437,
+                            "sunni": 0.011235955056179775,
+                            "tuesday": 0.011235955056179775,
+                            "reports": 0.011235955056179775,
+                            "al": 0.011235955056179775,
+                            "jazeera": 0.0056179775280898875,
+                            "also": 0.0056179775280898875,
+                            "soldiers": 0.0056179775280898875,
+                            "separate": 0.0056179775280898875,
+                            "battle": 0.0056179775280898875,
+                            "fighters": 0.0056179775280898875,
+                            "fallujah": 0.011235955056179775,
+                            "anbar": 0.011235955056179775,
+                            "province": 0.011235955056179775,
+                            "on": 0.0056179775280898875
+                        },
+                        "total": 0.22694667225631102,
+                        "sinTransform": 1.122125212822871
+                    }
+                }
+            },
+            {
+                "text": "More people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "more",
+                        "people",
+                        "were",
+                        "killed",
+                        "iraq",
+                        "2013",
+                        "than",
+                        "any",
+                        "point",
+                        "since",
+                        "2008",
+                        "when",
+                        "sectarian",
+                        "violence",
+                        "reached",
+                        "its",
+                        "peak"
+                    ],
+                    "weights": {
+                        "words": {
+                            "2008": 0.0056179775280898875,
+                            "2013": 0.011235955056179775,
+                            "people": 0.033707865168539325,
+                            "killed": 0.033707865168539325,
+                            "were": 0.028089887640449437,
+                            "more": 0.011235955056179775,
+                            "than": 0.011235955056179775,
+                            "since": 0.011235955056179775,
+                            "iraq": 0.0056179775280898875,
+                            "any": 0.0056179775280898875,
+                            "point": 0.0056179775280898875,
+                            "when": 0.0056179775280898875,
+                            "sectarian": 0.0056179775280898875,
+                            "violence": 0.0056179775280898875,
+                            "reached": 0.0056179775280898875,
+                            "its": 0.0056179775280898875,
+                            "peak": 0.0056179775280898875
+                        },
+                        "total": 0.2672453946925562,
+                        "sinTransform": 1.3591337215792851
+                    }
+                }
+            }
+        ],
+        "summary": [
+            "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.",
+            "The blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.",
+            "Last month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.",
+            "Al-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.",
+            "More people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak."
+        ]
+    },
+    "text": "At least 49 people have been killed in a wave of car bombs in the Iraqi cities of Baghdad and Hilla, officials say.\nThe blasts come a day after at least 23 people were killed in bomb explosions in the Iraqi capital.\nLast month, more than 1,000 people were killed in attacks which mostly hit Shia and government targets.\nAl-Jazeera also reports that 13 Iraqi soldiers were killed in a separate battle with Sunni fighters in Fallujah in Anbar province on Tuesday.\nMore people were killed in Iraq in 2013 than at any point since 2008, when sectarian violence reached its peak."
+}

@@ -1,0 +1,1684 @@
+{
+    "data": {
+        "sentences": [
+            {
+                "text": "Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "scans",
+                        "read",
+                        "master",
+                        "monkey",
+                        "mind",
+                        "were",
+                        "used",
+                        "electrically",
+                        "stimulate",
+                        "avatar",
+                        "spinal",
+                        "cord",
+                        "resulting",
+                        "controlled",
+                        "movement"
+                    ],
+                    "sinTransform": 1.7774790660436857,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scans": 0.021943659743423737,
+                            "read": 0.007970758143693657,
+                            "master": 0.11372410755171505,
+                            "mind": 0.007970758143693657,
+                            "were": 0.07344571030937616,
+                            "electrically": 0.007970758143693657,
+                            "stimulate": 0.007970758143693657,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "resulting": 0.007970758143693657,
+                            "controlled": 0.021943659743423737,
+                            "movement": 0.03883890652603672
+                        },
+                        "total": 1.0460801831070308
+                    }
+                }
+            },
+            {
+                "text": "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "one",
+                        "monkey",
+                        "has",
+                        "been",
+                        "used",
+                        "control",
+                        "movements",
+                        "another",
+                        "avatar",
+                        "monkey",
+                        "us",
+                        "scientists",
+                        "report"
+                    ],
+                    "sinTransform": 2,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "monkey": 0.10512133615607584,
+                            "has": 0.008968609865470852,
+                            "been": 0.024690765885942,
+                            "used": 0.04782454886216195,
+                            "control": 0.0748988036423987,
+                            "movements": 0.024690765885941997,
+                            "another": 0.008968609865470852,
+                            "avatar": 0.32435212114406986,
+                            "us": 0.008968609865470852,
+                            "scientists": 0.017937219730941704,
+                            "report": 0.008968609865470852
+                        },
+                        "total": 0.8568338255798382
+                    }
+                }
+            },
+            {
+                "text": "The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "scientists",
+                        "harvard",
+                        "medical",
+                        "school",
+                        "said",
+                        "could",
+                        "not",
+                        "justify",
+                        "paralysing",
+                        "monkey",
+                        "instead",
+                        "two",
+                        "were",
+                        "used",
+                        "master",
+                        "monkey",
+                        "sedated",
+                        "avatar"
+                    ],
+                    "sinTransform": 1,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scientists": 0.017937219730941704,
+                            "master": 0.11372410755171505,
+                            "were": 0.07344571030937616,
+                            "harvard": 0.004484304932735426,
+                            "medical": 0.004484304932735426,
+                            "school": 0.004484304932735426,
+                            "said": 0.008968609865470852,
+                            "could": 0.03268240676739916,
+                            "not": 0.004484304932735426,
+                            "justify": 0.004484304932735426,
+                            "paralysing": 0.004484304932735426,
+                            "instead": 0.004484304932735426,
+                            "two": 0.012345382942970998,
+                            "sedated": 0.01404588574782459
+                        },
+                        "total": 0.7818374636071544
+                    }
+                }
+            },
+            {
+                "text": "The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "avatar",
+                        "had",
+                        "36",
+                        "electrodes",
+                        "implanted",
+                        "spinal",
+                        "cord",
+                        "tests",
+                        "were",
+                        "performed",
+                        "see",
+                        "how",
+                        "stimulating",
+                        "different",
+                        "combinations",
+                        "electrodes",
+                        "affected",
+                        "movement"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "36": 0.005462639092071614,
+                            "avatar": 0.32435212114406986,
+                            "were": 0.07344571030937616,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "movement": 0.03883890652603672,
+                            "had": 0.026308868482998904,
+                            "implanted": 0.011199197718214076,
+                            "electrodes": 0.010925278184143229,
+                            "tests": 0.019419453263018357,
+                            "performed": 0.005462639092071614,
+                            "see": 0.005462639092071614,
+                            "how": 0.005462639092071614,
+                            "stimulating": 0.005462639092071614,
+                            "different": 0.005462639092071614,
+                            "combinations": 0.005462639092071614,
+                            "affected": 0.005462639092071614
+                        },
+                        "total": 0.6428153147351996
+                    }
+                }
+            },
+            {
+                "text": "In 98% of tests, the master could correctly control the avatar's arm.",
+                "index": 13,
+                "data": {
+                    "tokens": [
+                        "98",
+                        "tests",
+                        "master",
+                        "could",
+                        "correctly",
+                        "control",
+                        "avatar",
+                        "arm"
+                    ],
+                    "sinTransform": 1.7774790660436854,
+                    "weights": {
+                        "words": {
+                            "98": 0.007970758143693657,
+                            "control": 0.0748988036423987,
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "could": 0.03268240676739916,
+                            "tests": 0.019419453263018357,
+                            "correctly": 0.007970758143693657,
+                            "arm": 0.007970758143693657
+                        },
+                        "total": 0.588989166799682
+                    }
+                }
+            },
+            {
+                "text": "The sedated avatar held a joystick, while the master had to think about moving a cursor up or down.",
+                "index": 12,
+                "data": {
+                    "tokens": [
+                        "sedated",
+                        "avatar",
+                        "held",
+                        "joystick",
+                        "while",
+                        "master",
+                        "had",
+                        "think",
+                        "about",
+                        "moving",
+                        "cursor",
+                        "up",
+                        "down"
+                    ],
+                    "sinTransform": 1.5661162608824417,
+                    "weights": {
+                        "words": {
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "sedated": 0.01404588574782459,
+                            "had": 0.026308868482998904,
+                            "up": 0.043563519910092996,
+                            "held": 0.007022942873912295,
+                            "joystick": 0.007022942873912295,
+                            "while": 0.007022942873912295,
+                            "think": 0.01404588574782459,
+                            "about": 0.007022942873912295,
+                            "moving": 0.007022942873912295,
+                            "cursor": 0.007022942873912295,
+                            "down": 0.007022942873912295
+                        },
+                        "total": 0.5852009887019118
+                    }
+                }
+            },
+            {
+                "text": "The two monkeys were then hooked up so that the brain scans in one controlled movements in real time in the other.",
+                "index": 11,
+                "data": {
+                    "tokens": [
+                        "two",
+                        "monkeys",
+                        "were",
+                        "then",
+                        "hooked",
+                        "up",
+                        "so",
+                        "brain",
+                        "scans",
+                        "one",
+                        "controlled",
+                        "movements",
+                        "real",
+                        "time",
+                        "other"
+                    ],
+                    "sinTransform": 1.3765101981412664,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "movements": 0.024690765885941997,
+                            "scans": 0.021943659743423737,
+                            "were": 0.07344571030937616,
+                            "controlled": 0.021943659743423737,
+                            "two": 0.012345382942970998,
+                            "up": 0.043563519910092996,
+                            "monkeys": 0.006172691471485499,
+                            "then": 0.006172691471485499,
+                            "hooked": 0.006172691471485499,
+                            "so": 0.006172691471485499,
+                            "real": 0.006172691471485499,
+                            "time": 0.006172691471485499,
+                            "other": 0.006172691471485499
+                        },
+                        "total": 0.442585363646051
+                    }
+                }
+            },
+            {
+                "text": "The master had a brain chip implanted that could monitor the activity of up to 100 neurons.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "master",
+                        "had",
+                        "brain",
+                        "chip",
+                        "implanted",
+                        "could",
+                        "monitor",
+                        "activity",
+                        "up",
+                        "100",
+                        "neurons"
+                    ],
+                    "sinTransform": 1.0250720878181765,
+                    "weights": {
+                        "words": {
+                            "100": 0.004596735819812451,
+                            "brain": 0.16440767598150974,
+                            "master": 0.11372410755171505,
+                            "activity": 0.015535856552313472,
+                            "could": 0.03268240676739916,
+                            "had": 0.026308868482998904,
+                            "chip": 0.004596735819812451,
+                            "implanted": 0.011199197718214076,
+                            "monitor": 0.004596735819812451,
+                            "up": 0.043563519910092996,
+                            "neurons": 0.01010391154400396
+                        },
+                        "total": 0.43131575196768474
+                    }
+                }
+            },
+            {
+                "text": "Damage to the spinal cord can stop the flow of information from the brain to the body, leaving people unable to walk or feed themselves.",
+                "index": 4,
+                "data": {
+                    "tokens": [
+                        "damage",
+                        "spinal",
+                        "cord",
+                        "can",
+                        "stop",
+                        "flow",
+                        "information",
+                        "brain",
+                        "body",
+                        "leaving",
+                        "people",
+                        "unable",
+                        "walk",
+                        "feed",
+                        "themselves"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "can": 0.01711025581885091,
+                            "people": 0.03422051163770182,
+                            "body": 0.01711025581885091,
+                            "damage": 0.012007220851199936,
+                            "stop": 0.005462639092071614,
+                            "flow": 0.005462639092071614,
+                            "information": 0.005462639092071614,
+                            "leaving": 0.005462639092071614,
+                            "unable": 0.005462639092071614,
+                            "walk": 0.005462639092071614,
+                            "feed": 0.005462639092071614,
+                            "themselves": 0.005462639092071614
+                        },
+                        "total": 0.3831816992154561
+                    }
+                }
+            },
+            {
+                "text": "During training, the physical actions of the monkey were matched up with the patterns of electrical activity in the neurons.",
+                "index": 9,
+                "data": {
+                    "tokens": [
+                        "during",
+                        "training",
+                        "physical",
+                        "actions",
+                        "monkey",
+                        "were",
+                        "matched",
+                        "up",
+                        "patterns",
+                        "electrical",
+                        "activity",
+                        "neurons"
+                    ],
+                    "sinTransform": 1.099031132097581,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "were": 0.07344571030937616,
+                            "electrical": 0.01010391154400396,
+                            "activity": 0.015535856552313472,
+                            "up": 0.043563519910092996,
+                            "neurons": 0.01010391154400396,
+                            "during": 0.004928390726894982,
+                            "training": 0.004928390726894982,
+                            "physical": 0.004928390726894982,
+                            "actions": 0.004928390726894982,
+                            "matched": 0.004928390726894982,
+                            "patterns": 0.004928390726894982
+                        },
+                        "total": 0.28744459037723635
+                    }
+                }
+            },
+            {
+                "text": "The team hope the method can be refined to allow paralysed people to regain control of their own body.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "team",
+                        "hope",
+                        "method",
+                        "can",
+                        "refined",
+                        "allow",
+                        "paralysed",
+                        "people",
+                        "regain",
+                        "control",
+                        "their",
+                        "own",
+                        "body"
+                    ],
+                    "sinTransform": 1.566116260882442,
+                    "weights": {
+                        "words": {
+                            "control": 0.0748988036423987,
+                            "team": 0.007022942873912296,
+                            "hope": 0.014045885747824591,
+                            "method": 0.007022942873912296,
+                            "can": 0.01711025581885091,
+                            "refined": 0.007022942873912296,
+                            "allow": 0.007022942873912296,
+                            "paralysed": 0.014045885747824591,
+                            "people": 0.03422051163770182,
+                            "regain": 0.007022942873912296,
+                            "their": 0.014045885747824591,
+                            "own": 0.007022942873912296,
+                            "body": 0.01711025581885091
+                        },
+                        "total": 0.22761514140474992
+                    }
+                }
+            },
+            {
+                "text": "The findings, published in Nature Communications, have been described as \"a key step forward\".",
+                "index": 3,
+                "data": {
+                    "tokens": [
+                        "findings",
+                        "published",
+                        "nature",
+                        "communications",
+                        "have",
+                        "been",
+                        "described",
+                        "as",
+                        "key",
+                        "step",
+                        "forward"
+                    ],
+                    "sinTransform": 1.3765101981412666,
+                    "weights": {
+                        "words": {
+                            "been": 0.024690765885942,
+                            "findings": 0.0061726914714855,
+                            "published": 0.0061726914714855,
+                            "nature": 0.0061726914714855,
+                            "communications": 0.0061726914714855,
+                            "have": 0.0061726914714855,
+                            "described": 0.0061726914714855,
+                            "as": 0.0061726914714855,
+                            "key": 0.0061726914714855,
+                            "step": 0.0061726914714855,
+                            "forward": 0.0061726914714855
+                        },
+                        "total": 0.08641768060079698
+                    }
+                }
+            },
+            {
+                "text": "The researchers are aiming to bridge the damage with machinery.",
+                "index": 5,
+                "data": {
+                    "tokens": [
+                        "researchers",
+                        "are",
+                        "aiming",
+                        "bridge",
+                        "damage",
+                        "machinery"
+                    ],
+                    "sinTransform": 1.099031132097581,
+                    "weights": {
+                        "words": {
+                            "damage": 0.012007220851199936,
+                            "researchers": 0.009856781453789964,
+                            "are": 0.004928390726894982,
+                            "aiming": 0.004928390726894982,
+                            "bridge": 0.004928390726894982,
+                            "machinery": 0.004928390726894982
+                        },
+                        "total": 0.04157756521256983
+                    }
+                }
+            },
+            {
+                "text": "Match electrical activity.",
+                "index": 6,
+                "data": {
+                    "tokens": [
+                        "match",
+                        "electrical",
+                        "activity"
+                    ],
+                    "sinTransform": 1.0250720878181765,
+                    "weights": {
+                        "words": {
+                            "match": 0.004596735819812451,
+                            "electrical": 0.01010391154400396,
+                            "activity": 0.015535856552313472
+                        },
+                        "total": 0.030236503916129885
+                    }
+                }
+            }
+        ],
+        "ordered": [
+            {
+                "text": "Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "scans",
+                        "read",
+                        "master",
+                        "monkey",
+                        "mind",
+                        "were",
+                        "used",
+                        "electrically",
+                        "stimulate",
+                        "avatar",
+                        "spinal",
+                        "cord",
+                        "resulting",
+                        "controlled",
+                        "movement"
+                    ],
+                    "sinTransform": 1.7774790660436857,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scans": 0.021943659743423737,
+                            "read": 0.007970758143693657,
+                            "master": 0.11372410755171505,
+                            "mind": 0.007970758143693657,
+                            "were": 0.07344571030937616,
+                            "electrically": 0.007970758143693657,
+                            "stimulate": 0.007970758143693657,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "resulting": 0.007970758143693657,
+                            "controlled": 0.021943659743423737,
+                            "movement": 0.03883890652603672
+                        },
+                        "total": 1.0460801831070308
+                    }
+                }
+            },
+            {
+                "text": "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "one",
+                        "monkey",
+                        "has",
+                        "been",
+                        "used",
+                        "control",
+                        "movements",
+                        "another",
+                        "avatar",
+                        "monkey",
+                        "us",
+                        "scientists",
+                        "report"
+                    ],
+                    "sinTransform": 2,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "monkey": 0.10512133615607584,
+                            "has": 0.008968609865470852,
+                            "been": 0.024690765885942,
+                            "used": 0.04782454886216195,
+                            "control": 0.0748988036423987,
+                            "movements": 0.024690765885941997,
+                            "another": 0.008968609865470852,
+                            "avatar": 0.32435212114406986,
+                            "us": 0.008968609865470852,
+                            "scientists": 0.017937219730941704,
+                            "report": 0.008968609865470852
+                        },
+                        "total": 0.8568338255798382
+                    }
+                }
+            },
+            {
+                "text": "The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "scientists",
+                        "harvard",
+                        "medical",
+                        "school",
+                        "said",
+                        "could",
+                        "not",
+                        "justify",
+                        "paralysing",
+                        "monkey",
+                        "instead",
+                        "two",
+                        "were",
+                        "used",
+                        "master",
+                        "monkey",
+                        "sedated",
+                        "avatar"
+                    ],
+                    "sinTransform": 1,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scientists": 0.017937219730941704,
+                            "master": 0.11372410755171505,
+                            "were": 0.07344571030937616,
+                            "harvard": 0.004484304932735426,
+                            "medical": 0.004484304932735426,
+                            "school": 0.004484304932735426,
+                            "said": 0.008968609865470852,
+                            "could": 0.03268240676739916,
+                            "not": 0.004484304932735426,
+                            "justify": 0.004484304932735426,
+                            "paralysing": 0.004484304932735426,
+                            "instead": 0.004484304932735426,
+                            "two": 0.012345382942970998,
+                            "sedated": 0.01404588574782459
+                        },
+                        "total": 0.7818374636071544
+                    }
+                }
+            },
+            {
+                "text": "The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "avatar",
+                        "had",
+                        "36",
+                        "electrodes",
+                        "implanted",
+                        "spinal",
+                        "cord",
+                        "tests",
+                        "were",
+                        "performed",
+                        "see",
+                        "how",
+                        "stimulating",
+                        "different",
+                        "combinations",
+                        "electrodes",
+                        "affected",
+                        "movement"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "36": 0.005462639092071614,
+                            "avatar": 0.32435212114406986,
+                            "were": 0.07344571030937616,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "movement": 0.03883890652603672,
+                            "had": 0.026308868482998904,
+                            "implanted": 0.011199197718214076,
+                            "electrodes": 0.010925278184143229,
+                            "tests": 0.019419453263018357,
+                            "performed": 0.005462639092071614,
+                            "see": 0.005462639092071614,
+                            "how": 0.005462639092071614,
+                            "stimulating": 0.005462639092071614,
+                            "different": 0.005462639092071614,
+                            "combinations": 0.005462639092071614,
+                            "affected": 0.005462639092071614
+                        },
+                        "total": 0.6428153147351996
+                    }
+                }
+            },
+            {
+                "text": "In 98% of tests, the master could correctly control the avatar's arm.",
+                "index": 13,
+                "data": {
+                    "tokens": [
+                        "98",
+                        "tests",
+                        "master",
+                        "could",
+                        "correctly",
+                        "control",
+                        "avatar",
+                        "arm"
+                    ],
+                    "sinTransform": 1.7774790660436854,
+                    "weights": {
+                        "words": {
+                            "98": 0.007970758143693657,
+                            "control": 0.0748988036423987,
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "could": 0.03268240676739916,
+                            "tests": 0.019419453263018357,
+                            "correctly": 0.007970758143693657,
+                            "arm": 0.007970758143693657
+                        },
+                        "total": 0.588989166799682
+                    }
+                }
+            },
+            {
+                "text": "The sedated avatar held a joystick, while the master had to think about moving a cursor up or down.",
+                "index": 12,
+                "data": {
+                    "tokens": [
+                        "sedated",
+                        "avatar",
+                        "held",
+                        "joystick",
+                        "while",
+                        "master",
+                        "had",
+                        "think",
+                        "about",
+                        "moving",
+                        "cursor",
+                        "up",
+                        "down"
+                    ],
+                    "sinTransform": 1.5661162608824417,
+                    "weights": {
+                        "words": {
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "sedated": 0.01404588574782459,
+                            "had": 0.026308868482998904,
+                            "up": 0.043563519910092996,
+                            "held": 0.007022942873912295,
+                            "joystick": 0.007022942873912295,
+                            "while": 0.007022942873912295,
+                            "think": 0.01404588574782459,
+                            "about": 0.007022942873912295,
+                            "moving": 0.007022942873912295,
+                            "cursor": 0.007022942873912295,
+                            "down": 0.007022942873912295
+                        },
+                        "total": 0.5852009887019118
+                    }
+                }
+            },
+            {
+                "text": "The two monkeys were then hooked up so that the brain scans in one controlled movements in real time in the other.",
+                "index": 11,
+                "data": {
+                    "tokens": [
+                        "two",
+                        "monkeys",
+                        "were",
+                        "then",
+                        "hooked",
+                        "up",
+                        "so",
+                        "brain",
+                        "scans",
+                        "one",
+                        "controlled",
+                        "movements",
+                        "real",
+                        "time",
+                        "other"
+                    ],
+                    "sinTransform": 1.3765101981412664,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "movements": 0.024690765885941997,
+                            "scans": 0.021943659743423737,
+                            "were": 0.07344571030937616,
+                            "controlled": 0.021943659743423737,
+                            "two": 0.012345382942970998,
+                            "up": 0.043563519910092996,
+                            "monkeys": 0.006172691471485499,
+                            "then": 0.006172691471485499,
+                            "hooked": 0.006172691471485499,
+                            "so": 0.006172691471485499,
+                            "real": 0.006172691471485499,
+                            "time": 0.006172691471485499,
+                            "other": 0.006172691471485499
+                        },
+                        "total": 0.442585363646051
+                    }
+                }
+            },
+            {
+                "text": "The master had a brain chip implanted that could monitor the activity of up to 100 neurons.",
+                "index": 8,
+                "data": {
+                    "tokens": [
+                        "master",
+                        "had",
+                        "brain",
+                        "chip",
+                        "implanted",
+                        "could",
+                        "monitor",
+                        "activity",
+                        "up",
+                        "100",
+                        "neurons"
+                    ],
+                    "sinTransform": 1.0250720878181765,
+                    "weights": {
+                        "words": {
+                            "100": 0.004596735819812451,
+                            "brain": 0.16440767598150974,
+                            "master": 0.11372410755171505,
+                            "activity": 0.015535856552313472,
+                            "could": 0.03268240676739916,
+                            "had": 0.026308868482998904,
+                            "chip": 0.004596735819812451,
+                            "implanted": 0.011199197718214076,
+                            "monitor": 0.004596735819812451,
+                            "up": 0.043563519910092996,
+                            "neurons": 0.01010391154400396
+                        },
+                        "total": 0.43131575196768474
+                    }
+                }
+            },
+            {
+                "text": "Damage to the spinal cord can stop the flow of information from the brain to the body, leaving people unable to walk or feed themselves.",
+                "index": 4,
+                "data": {
+                    "tokens": [
+                        "damage",
+                        "spinal",
+                        "cord",
+                        "can",
+                        "stop",
+                        "flow",
+                        "information",
+                        "brain",
+                        "body",
+                        "leaving",
+                        "people",
+                        "unable",
+                        "walk",
+                        "feed",
+                        "themselves"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "can": 0.01711025581885091,
+                            "people": 0.03422051163770182,
+                            "body": 0.01711025581885091,
+                            "damage": 0.012007220851199936,
+                            "stop": 0.005462639092071614,
+                            "flow": 0.005462639092071614,
+                            "information": 0.005462639092071614,
+                            "leaving": 0.005462639092071614,
+                            "unable": 0.005462639092071614,
+                            "walk": 0.005462639092071614,
+                            "feed": 0.005462639092071614,
+                            "themselves": 0.005462639092071614
+                        },
+                        "total": 0.3831816992154561
+                    }
+                }
+            },
+            {
+                "text": "During training, the physical actions of the monkey were matched up with the patterns of electrical activity in the neurons.",
+                "index": 9,
+                "data": {
+                    "tokens": [
+                        "during",
+                        "training",
+                        "physical",
+                        "actions",
+                        "monkey",
+                        "were",
+                        "matched",
+                        "up",
+                        "patterns",
+                        "electrical",
+                        "activity",
+                        "neurons"
+                    ],
+                    "sinTransform": 1.099031132097581,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "were": 0.07344571030937616,
+                            "electrical": 0.01010391154400396,
+                            "activity": 0.015535856552313472,
+                            "up": 0.043563519910092996,
+                            "neurons": 0.01010391154400396,
+                            "during": 0.004928390726894982,
+                            "training": 0.004928390726894982,
+                            "physical": 0.004928390726894982,
+                            "actions": 0.004928390726894982,
+                            "matched": 0.004928390726894982,
+                            "patterns": 0.004928390726894982
+                        },
+                        "total": 0.28744459037723635
+                    }
+                }
+            },
+            {
+                "text": "The team hope the method can be refined to allow paralysed people to regain control of their own body.",
+                "index": 2,
+                "data": {
+                    "tokens": [
+                        "team",
+                        "hope",
+                        "method",
+                        "can",
+                        "refined",
+                        "allow",
+                        "paralysed",
+                        "people",
+                        "regain",
+                        "control",
+                        "their",
+                        "own",
+                        "body"
+                    ],
+                    "sinTransform": 1.566116260882442,
+                    "weights": {
+                        "words": {
+                            "control": 0.0748988036423987,
+                            "team": 0.007022942873912296,
+                            "hope": 0.014045885747824591,
+                            "method": 0.007022942873912296,
+                            "can": 0.01711025581885091,
+                            "refined": 0.007022942873912296,
+                            "allow": 0.007022942873912296,
+                            "paralysed": 0.014045885747824591,
+                            "people": 0.03422051163770182,
+                            "regain": 0.007022942873912296,
+                            "their": 0.014045885747824591,
+                            "own": 0.007022942873912296,
+                            "body": 0.01711025581885091
+                        },
+                        "total": 0.22761514140474992
+                    }
+                }
+            },
+            {
+                "text": "The findings, published in Nature Communications, have been described as \"a key step forward\".",
+                "index": 3,
+                "data": {
+                    "tokens": [
+                        "findings",
+                        "published",
+                        "nature",
+                        "communications",
+                        "have",
+                        "been",
+                        "described",
+                        "as",
+                        "key",
+                        "step",
+                        "forward"
+                    ],
+                    "sinTransform": 1.3765101981412666,
+                    "weights": {
+                        "words": {
+                            "been": 0.024690765885942,
+                            "findings": 0.0061726914714855,
+                            "published": 0.0061726914714855,
+                            "nature": 0.0061726914714855,
+                            "communications": 0.0061726914714855,
+                            "have": 0.0061726914714855,
+                            "described": 0.0061726914714855,
+                            "as": 0.0061726914714855,
+                            "key": 0.0061726914714855,
+                            "step": 0.0061726914714855,
+                            "forward": 0.0061726914714855
+                        },
+                        "total": 0.08641768060079698
+                    }
+                }
+            },
+            {
+                "text": "The researchers are aiming to bridge the damage with machinery.",
+                "index": 5,
+                "data": {
+                    "tokens": [
+                        "researchers",
+                        "are",
+                        "aiming",
+                        "bridge",
+                        "damage",
+                        "machinery"
+                    ],
+                    "sinTransform": 1.099031132097581,
+                    "weights": {
+                        "words": {
+                            "damage": 0.012007220851199936,
+                            "researchers": 0.009856781453789964,
+                            "are": 0.004928390726894982,
+                            "aiming": 0.004928390726894982,
+                            "bridge": 0.004928390726894982,
+                            "machinery": 0.004928390726894982
+                        },
+                        "total": 0.04157756521256983
+                    }
+                }
+            },
+            {
+                "text": "Match electrical activity.",
+                "index": 6,
+                "data": {
+                    "tokens": [
+                        "match",
+                        "electrical",
+                        "activity"
+                    ],
+                    "sinTransform": 1.0250720878181765,
+                    "weights": {
+                        "words": {
+                            "match": 0.004596735819812451,
+                            "electrical": 0.01010391154400396,
+                            "activity": 0.015535856552313472
+                        },
+                        "total": 0.030236503916129885
+                    }
+                }
+            }
+        ],
+        "weights": {
+            "words": {
+                "36": 0.005462639092071614,
+                "98": 0.007970758143693657,
+                "100": 0.004596735819812451,
+                "brain": 0.16440767598150974,
+                "one": 0.037036148828913,
+                "monkey": 0.10512133615607584,
+                "has": 0.008968609865470852,
+                "been": 0.024690765885942,
+                "used": 0.04782454886216195,
+                "control": 0.0748988036423987,
+                "movements": 0.024690765885941997,
+                "another": 0.008968609865470852,
+                "avatar": 0.32435212114406986,
+                "us": 0.008968609865470852,
+                "scientists": 0.017937219730941704,
+                "report": 0.008968609865470852,
+                "scans": 0.021943659743423737,
+                "read": 0.007970758143693657,
+                "master": 0.11372410755171505,
+                "mind": 0.007970758143693657,
+                "were": 0.07344571030937616,
+                "electrically": 0.007970758143693657,
+                "stimulate": 0.007970758143693657,
+                "spinal": 0.04731233318538491,
+                "cord": 0.04731233318538491,
+                "resulting": 0.007970758143693657,
+                "controlled": 0.021943659743423737,
+                "movement": 0.03883890652603672,
+                "team": 0.007022942873912296,
+                "hope": 0.014045885747824591,
+                "method": 0.007022942873912296,
+                "can": 0.01711025581885091,
+                "refined": 0.007022942873912296,
+                "allow": 0.007022942873912296,
+                "paralysed": 0.014045885747824591,
+                "people": 0.03422051163770182,
+                "regain": 0.007022942873912296,
+                "their": 0.014045885747824591,
+                "own": 0.007022942873912296,
+                "body": 0.01711025581885091,
+                "findings": 0.0061726914714855,
+                "published": 0.0061726914714855,
+                "nature": 0.0061726914714855,
+                "communications": 0.0061726914714855,
+                "have": 0.0061726914714855,
+                "described": 0.0061726914714855,
+                "as": 0.0061726914714855,
+                "key": 0.0061726914714855,
+                "step": 0.0061726914714855,
+                "forward": 0.0061726914714855,
+                "damage": 0.012007220851199936,
+                "stop": 0.005462639092071614,
+                "flow": 0.005462639092071614,
+                "information": 0.005462639092071614,
+                "leaving": 0.005462639092071614,
+                "unable": 0.005462639092071614,
+                "walk": 0.005462639092071614,
+                "feed": 0.005462639092071614,
+                "themselves": 0.005462639092071614,
+                "researchers": 0.009856781453789964,
+                "are": 0.004928390726894982,
+                "aiming": 0.004928390726894982,
+                "bridge": 0.004928390726894982,
+                "machinery": 0.004928390726894982,
+                "match": 0.004596735819812451,
+                "electrical": 0.01010391154400396,
+                "activity": 0.015535856552313472,
+                "harvard": 0.004484304932735426,
+                "medical": 0.004484304932735426,
+                "school": 0.004484304932735426,
+                "said": 0.008968609865470852,
+                "could": 0.03268240676739916,
+                "not": 0.004484304932735426,
+                "justify": 0.004484304932735426,
+                "paralysing": 0.004484304932735426,
+                "instead": 0.004484304932735426,
+                "two": 0.012345382942970998,
+                "sedated": 0.01404588574782459,
+                "had": 0.026308868482998904,
+                "chip": 0.004596735819812451,
+                "implanted": 0.011199197718214076,
+                "monitor": 0.004596735819812451,
+                "up": 0.043563519910092996,
+                "neurons": 0.01010391154400396,
+                "during": 0.004928390726894982,
+                "training": 0.004928390726894982,
+                "physical": 0.004928390726894982,
+                "actions": 0.004928390726894982,
+                "matched": 0.004928390726894982,
+                "patterns": 0.004928390726894982,
+                "electrodes": 0.010925278184143229,
+                "tests": 0.019419453263018357,
+                "performed": 0.005462639092071614,
+                "see": 0.005462639092071614,
+                "how": 0.005462639092071614,
+                "stimulating": 0.005462639092071614,
+                "different": 0.005462639092071614,
+                "combinations": 0.005462639092071614,
+                "affected": 0.005462639092071614,
+                "monkeys": 0.006172691471485499,
+                "then": 0.006172691471485499,
+                "hooked": 0.006172691471485499,
+                "so": 0.006172691471485499,
+                "real": 0.006172691471485499,
+                "time": 0.006172691471485499,
+                "other": 0.006172691471485499,
+                "held": 0.007022942873912295,
+                "joystick": 0.007022942873912295,
+                "while": 0.007022942873912295,
+                "think": 0.01404588574782459,
+                "about": 0.007022942873912295,
+                "moving": 0.007022942873912295,
+                "cursor": 0.007022942873912295,
+                "down": 0.007022942873912295,
+                "correctly": 0.007970758143693657,
+                "arm": 0.007970758143693657,
+                "dr": 0.004484304932735426,
+                "ziv": 0.004484304932735426,
+                "williams": 0.004484304932735426,
+                "told": 0.004484304932735426,
+                "bbc": 0.004484304932735426,
+                "goal": 0.004484304932735426,
+                "take": 0.004484304932735426,
+                "stem": 0.004484304932735426,
+                "paralysis": 0.004484304932735426,
+                "bypass": 0.004484304932735426,
+                "injury": 0.004484304932735426,
+                "ultimately": 0.004484304932735426,
+                "get": 0.008968609865470852,
+                "completely": 0.004484304932735426,
+                "natural": 0.004484304932735426,
+                "i": 0.004484304932735426,
+                "theoretically": 0.004484304932735426,
+                "possible": 0.004484304932735426,
+                "but": 0.004484304932735426,
+                "will": 0.004484304932735426,
+                "require": 0.004484304932735426,
+                "an": 0.004484304932735426,
+                "exponential": 0.004484304932735426,
+                "additional": 0.004484304932735426,
+                "effort": 0.004484304932735426,
+                "point": 0.004484304932735426,
+                "giving": 0.004484304932735426,
+                "even": 0.004484304932735426,
+                "small": 0.004484304932735426,
+                "amount": 0.004484304932735426,
+                "dramatically": 0.004484304932735426,
+                "alter": 0.004484304932735426,
+                "quality": 0.004484304932735426,
+                "life": 0.004484304932735426
+            },
+            "total": 1.000000000000002,
+            "transformed": 2.1864593476406173
+        },
+        "keep": [
+            {
+                "text": "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "one",
+                        "monkey",
+                        "has",
+                        "been",
+                        "used",
+                        "control",
+                        "movements",
+                        "another",
+                        "avatar",
+                        "monkey",
+                        "us",
+                        "scientists",
+                        "report"
+                    ],
+                    "sinTransform": 2,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "monkey": 0.10512133615607584,
+                            "has": 0.008968609865470852,
+                            "been": 0.024690765885942,
+                            "used": 0.04782454886216195,
+                            "control": 0.0748988036423987,
+                            "movements": 0.024690765885941997,
+                            "another": 0.008968609865470852,
+                            "avatar": 0.32435212114406986,
+                            "us": 0.008968609865470852,
+                            "scientists": 0.017937219730941704,
+                            "report": 0.008968609865470852
+                        },
+                        "total": 0.8568338255798382
+                    }
+                }
+            },
+            {
+                "text": "Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "scans",
+                        "read",
+                        "master",
+                        "monkey",
+                        "mind",
+                        "were",
+                        "used",
+                        "electrically",
+                        "stimulate",
+                        "avatar",
+                        "spinal",
+                        "cord",
+                        "resulting",
+                        "controlled",
+                        "movement"
+                    ],
+                    "sinTransform": 1.7774790660436857,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scans": 0.021943659743423737,
+                            "read": 0.007970758143693657,
+                            "master": 0.11372410755171505,
+                            "mind": 0.007970758143693657,
+                            "were": 0.07344571030937616,
+                            "electrically": 0.007970758143693657,
+                            "stimulate": 0.007970758143693657,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "resulting": 0.007970758143693657,
+                            "controlled": 0.021943659743423737,
+                            "movement": 0.03883890652603672
+                        },
+                        "total": 1.0460801831070308
+                    }
+                }
+            },
+            {
+                "text": "The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "scientists",
+                        "harvard",
+                        "medical",
+                        "school",
+                        "said",
+                        "could",
+                        "not",
+                        "justify",
+                        "paralysing",
+                        "monkey",
+                        "instead",
+                        "two",
+                        "were",
+                        "used",
+                        "master",
+                        "monkey",
+                        "sedated",
+                        "avatar"
+                    ],
+                    "sinTransform": 1,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scientists": 0.017937219730941704,
+                            "master": 0.11372410755171505,
+                            "were": 0.07344571030937616,
+                            "harvard": 0.004484304932735426,
+                            "medical": 0.004484304932735426,
+                            "school": 0.004484304932735426,
+                            "said": 0.008968609865470852,
+                            "could": 0.03268240676739916,
+                            "not": 0.004484304932735426,
+                            "justify": 0.004484304932735426,
+                            "paralysing": 0.004484304932735426,
+                            "instead": 0.004484304932735426,
+                            "two": 0.012345382942970998,
+                            "sedated": 0.01404588574782459
+                        },
+                        "total": 0.7818374636071544
+                    }
+                }
+            },
+            {
+                "text": "The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "avatar",
+                        "had",
+                        "36",
+                        "electrodes",
+                        "implanted",
+                        "spinal",
+                        "cord",
+                        "tests",
+                        "were",
+                        "performed",
+                        "see",
+                        "how",
+                        "stimulating",
+                        "different",
+                        "combinations",
+                        "electrodes",
+                        "affected",
+                        "movement"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "36": 0.005462639092071614,
+                            "avatar": 0.32435212114406986,
+                            "were": 0.07344571030937616,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "movement": 0.03883890652603672,
+                            "had": 0.026308868482998904,
+                            "implanted": 0.011199197718214076,
+                            "electrodes": 0.010925278184143229,
+                            "tests": 0.019419453263018357,
+                            "performed": 0.005462639092071614,
+                            "see": 0.005462639092071614,
+                            "how": 0.005462639092071614,
+                            "stimulating": 0.005462639092071614,
+                            "different": 0.005462639092071614,
+                            "combinations": 0.005462639092071614,
+                            "affected": 0.005462639092071614
+                        },
+                        "total": 0.6428153147351996
+                    }
+                }
+            },
+            {
+                "text": "In 98% of tests, the master could correctly control the avatar's arm.",
+                "index": 13,
+                "data": {
+                    "tokens": [
+                        "98",
+                        "tests",
+                        "master",
+                        "could",
+                        "correctly",
+                        "control",
+                        "avatar",
+                        "arm"
+                    ],
+                    "sinTransform": 1.7774790660436854,
+                    "weights": {
+                        "words": {
+                            "98": 0.007970758143693657,
+                            "control": 0.0748988036423987,
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "could": 0.03268240676739916,
+                            "tests": 0.019419453263018357,
+                            "correctly": 0.007970758143693657,
+                            "arm": 0.007970758143693657
+                        },
+                        "total": 0.588989166799682
+                    }
+                }
+            }
+        ],
+        "indexed": [
+            {
+                "text": "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.",
+                "index": 0,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "one",
+                        "monkey",
+                        "has",
+                        "been",
+                        "used",
+                        "control",
+                        "movements",
+                        "another",
+                        "avatar",
+                        "monkey",
+                        "us",
+                        "scientists",
+                        "report"
+                    ],
+                    "sinTransform": 2,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "one": 0.037036148828913,
+                            "monkey": 0.10512133615607584,
+                            "has": 0.008968609865470852,
+                            "been": 0.024690765885942,
+                            "used": 0.04782454886216195,
+                            "control": 0.0748988036423987,
+                            "movements": 0.024690765885941997,
+                            "another": 0.008968609865470852,
+                            "avatar": 0.32435212114406986,
+                            "us": 0.008968609865470852,
+                            "scientists": 0.017937219730941704,
+                            "report": 0.008968609865470852
+                        },
+                        "total": 0.8568338255798382
+                    }
+                }
+            },
+            {
+                "text": "Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.",
+                "index": 1,
+                "data": {
+                    "tokens": [
+                        "brain",
+                        "scans",
+                        "read",
+                        "master",
+                        "monkey",
+                        "mind",
+                        "were",
+                        "used",
+                        "electrically",
+                        "stimulate",
+                        "avatar",
+                        "spinal",
+                        "cord",
+                        "resulting",
+                        "controlled",
+                        "movement"
+                    ],
+                    "sinTransform": 1.7774790660436857,
+                    "weights": {
+                        "words": {
+                            "brain": 0.16440767598150974,
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scans": 0.021943659743423737,
+                            "read": 0.007970758143693657,
+                            "master": 0.11372410755171505,
+                            "mind": 0.007970758143693657,
+                            "were": 0.07344571030937616,
+                            "electrically": 0.007970758143693657,
+                            "stimulate": 0.007970758143693657,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "resulting": 0.007970758143693657,
+                            "controlled": 0.021943659743423737,
+                            "movement": 0.03883890652603672
+                        },
+                        "total": 1.0460801831070308
+                    }
+                }
+            },
+            {
+                "text": "The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.",
+                "index": 7,
+                "data": {
+                    "tokens": [
+                        "scientists",
+                        "harvard",
+                        "medical",
+                        "school",
+                        "said",
+                        "could",
+                        "not",
+                        "justify",
+                        "paralysing",
+                        "monkey",
+                        "instead",
+                        "two",
+                        "were",
+                        "used",
+                        "master",
+                        "monkey",
+                        "sedated",
+                        "avatar"
+                    ],
+                    "sinTransform": 1,
+                    "weights": {
+                        "words": {
+                            "monkey": 0.10512133615607584,
+                            "used": 0.04782454886216195,
+                            "avatar": 0.32435212114406986,
+                            "scientists": 0.017937219730941704,
+                            "master": 0.11372410755171505,
+                            "were": 0.07344571030937616,
+                            "harvard": 0.004484304932735426,
+                            "medical": 0.004484304932735426,
+                            "school": 0.004484304932735426,
+                            "said": 0.008968609865470852,
+                            "could": 0.03268240676739916,
+                            "not": 0.004484304932735426,
+                            "justify": 0.004484304932735426,
+                            "paralysing": 0.004484304932735426,
+                            "instead": 0.004484304932735426,
+                            "two": 0.012345382942970998,
+                            "sedated": 0.01404588574782459
+                        },
+                        "total": 0.7818374636071544
+                    }
+                }
+            },
+            {
+                "text": "The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.",
+                "index": 10,
+                "data": {
+                    "tokens": [
+                        "avatar",
+                        "had",
+                        "36",
+                        "electrodes",
+                        "implanted",
+                        "spinal",
+                        "cord",
+                        "tests",
+                        "were",
+                        "performed",
+                        "see",
+                        "how",
+                        "stimulating",
+                        "different",
+                        "combinations",
+                        "electrodes",
+                        "affected",
+                        "movement"
+                    ],
+                    "sinTransform": 1.21816851753197,
+                    "weights": {
+                        "words": {
+                            "36": 0.005462639092071614,
+                            "avatar": 0.32435212114406986,
+                            "were": 0.07344571030937616,
+                            "spinal": 0.04731233318538491,
+                            "cord": 0.04731233318538491,
+                            "movement": 0.03883890652603672,
+                            "had": 0.026308868482998904,
+                            "implanted": 0.011199197718214076,
+                            "electrodes": 0.010925278184143229,
+                            "tests": 0.019419453263018357,
+                            "performed": 0.005462639092071614,
+                            "see": 0.005462639092071614,
+                            "how": 0.005462639092071614,
+                            "stimulating": 0.005462639092071614,
+                            "different": 0.005462639092071614,
+                            "combinations": 0.005462639092071614,
+                            "affected": 0.005462639092071614
+                        },
+                        "total": 0.6428153147351996
+                    }
+                }
+            },
+            {
+                "text": "In 98% of tests, the master could correctly control the avatar's arm.",
+                "index": 13,
+                "data": {
+                    "tokens": [
+                        "98",
+                        "tests",
+                        "master",
+                        "could",
+                        "correctly",
+                        "control",
+                        "avatar",
+                        "arm"
+                    ],
+                    "sinTransform": 1.7774790660436854,
+                    "weights": {
+                        "words": {
+                            "98": 0.007970758143693657,
+                            "control": 0.0748988036423987,
+                            "avatar": 0.32435212114406986,
+                            "master": 0.11372410755171505,
+                            "could": 0.03268240676739916,
+                            "tests": 0.019419453263018357,
+                            "correctly": 0.007970758143693657,
+                            "arm": 0.007970758143693657
+                        },
+                        "total": 0.588989166799682
+                    }
+                }
+            }
+        ],
+        "summary": [
+            "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.",
+            "Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.",
+            "The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.",
+            "The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.",
+            "In 98% of tests, the master could correctly control the avatar's arm."
+        ]
+    },
+    "text": "The brain of one monkey has been used to control the movements of another, \"avatar\", monkey, US scientists report.\nBrain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.\nThe scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.\nThe avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.\nIn 98% of tests, the master could correctly control the avatar's arm."
+}

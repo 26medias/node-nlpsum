@@ -1,0 +1,19 @@
+American and British spy agencies conducted a campaign against the WikiLeaks website and its surrounding "human network," according to a new report.
+
+The article, appearing Tuesday in the online publication The Intercept, is based on new information found in documents previously released by Edward Snowden. He is the former National Security Agency (NSA) contractor who has made public — through WikiLeaks — a large cache of otherwise secret NSA materials.
+
+One classified document from the British spy agency Government Communications Headquarters (GCHQ) appears to be presenting a primer on passive monitoring of websites. But the Intercept story adds the factor that GCHQ's monitoring system, called ANTICRISIS GIRL, secretly monitored visitors to WikiLeaks via a tap into Internet backbone cables, capturing in real time the IP addresses of site visitors.
+
+Also included is a 2011 document of an internal NSA wiki with a brief discussion about whether the classification "malicious foreign actor" can be applied to WikiLeaks:
+
+"Can we treat a foreign server who stores or potentially disseminates leaked or stolen data on its server as a ‘malicious foreign actor' for the purpose of targeting with no defeats? Examples: WikiLeaks, thepiratebay.org, etc."
+
+The response by an unnamed NSA employee says, "Let me get back to you." The term "no defeats" is considered to mean "with no protections." The inclusion of the Pirate Bay site, which has been cited for copyright violations, either indicates that classified material was thought to be part of its inventory, or the national security agency was expanding its scope to include copyright.
+
+There is no indication that WikiLeaks or Pirate Bay was actually classified as a "malicious foreign actor" by the NSA. But a 2008 U.S. Army report did identify WikiLeaks as an enemy.
+
+The "human network" also included, of course, WikiLeaks' founder and editor-in-chief, Julian Assange. An August, 2010 unclassified document also unearthed by The Intercept indicates that the U.S. urged other countries fighting in Afghanistan to file criminal charges against Assange for the publication of more than 70,000 classified documents relating to the war, which had been provided by Army Private First Class Bradley Manning.
+
+The document said that this "appeal exemplifies the start of an international effort to focus the legal element of national power upon non-state actor Assange and the human network that supports WikiLeaks."
+
+Last year, James Goodale, then the chief counsel of The New York Times, told the Columbia Journalism Review that "the biggest challenge to the press today is the threatened persecution of WikiLeaks, and it's absolutely frightening." The Times worked with WikiLeaks in publishing the content of some of the secret documents.
