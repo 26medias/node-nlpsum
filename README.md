@@ -63,7 +63,7 @@ The two monkeys were then hooked up so that the brain scans in one controlled mo
 ### Sin Transform Frequency ###
 An update of the Word Frequency algorithm, that gives more weight to the beginning and end of the text, and less weight to the center.
 
-This algorithm works best for scentific papers and articles based around an introduction and conclusion.
+This algorithm works best for scientific papers and articles based around an introduction and conclusion.
 
 
 ```
@@ -80,5 +80,34 @@ Brain scans read the master monkey's mind and were used to electrically stimulat
 The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.
 The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.
 The two monkeys were then hooked up so that the brain scans in one controlled movements in real time in the other.
+```
+
+
+
+
+
+
+### Sin Transform Word Frequency ###
+An update of the Sin Transform Frequency algorithm, that gives more weight to the words located at the beginning and end of the text, and less weight to the words in the middle.
+This weight is compounded everytime the word is found, witht he value based on its location.
+As a result, the algorithm is able to better grasp the main subject of the text, without requiring any machine learning.
+
+This algorithm works well on any kind of text.
+
+
+```
+    var nlpsum      = require('nlpsum').main;
+    var sum         = new nlpsum();
+    var summary     = sum.sinFrequencySummary(content, 6);   // output 6 sentences
+    // output the summary, as a string
+``` 
+
+#### Output ####
+```
+The brain of one monkey has been used to control the movements of another, "avatar", monkey, US scientists report.
+Brain scans read the master monkey's mind and were used to electrically stimulate the avatar's spinal cord, resulting in controlled movement.
+The scientists at Harvard Medical School said they could not justify paralysing a monkey.Instead, two were used - a master monkey and a sedated avatar.
+The avatar had 36 electrodes implanted in the spinal cord and tests were performed to see how stimulating different combinations of electrodes affected movement.
+In 98% of tests, the master could correctly control the avatar's arm.
 ```
 
