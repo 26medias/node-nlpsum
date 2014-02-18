@@ -98,7 +98,7 @@ This algorithm works well on any kind of text.
 ```
     var nlpsum      = require('nlpsum').main;
     var sum         = new nlpsum();
-    var summary     = sum.sinFrequencySummary(content, 6);   // output 6 sentences
+    var summary     = sum.sinWordFrequencySummary(content, 6);   // output 6 sentences
     // output the summary, as a string
 ``` 
 
